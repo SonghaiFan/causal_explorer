@@ -22,24 +22,36 @@ const TagsPanel: FC<{
     return index;
   }, []);
 
-  const maxNodesPerTag = useMemo(() => Math.max(...values(nodesPerTag)), [nodesPerTag]);
-  const visibleTagsCount = useMemo(() => Object.keys(filters.tags).length, [filters]);
+  const maxNodesPerTag = useMemo(
+    () => Math.max(...values(nodesPerTag)),
+    [nodesPerTag]
+  );
+  const visibleTagsCount = useMemo(
+    () => Object.keys(filters.tags).length,
+    [filters]
+  );
 
-  const [visibleNodesPerTag, setVisibleNodesPerTag] = useState<Record<string, number>>(nodesPerTag);
+  const [visibleNodesPerTag, setVisibleNodesPerTag] =
+    useState<Record<string, number>>(nodesPerTag);
   useEffect(() => {
     // To ensure the graphology instance has up to data "hidden" values for
     // nodes, we wait for next frame before reindexing. This won't matter in the
     // UX, because of the visible nodes bar width transition.
     requestAnimationFrame(() => {
       const index: Record<string, number> = {};
-      graph.forEachNode((_, { tag, hidden }) => !hidden && (index[tag] = (index[tag] || 0) + 1));
+      graph.forEachNode(
+        (_, { tag, hidden }) => !hidden && (index[tag] = (index[tag] || 0) + 1)
+      );
       setVisibleNodesPerTag(index);
     });
   }, [filters]);
 
   const sortedTags = useMemo(
-    () => sortBy(tags, (tag) => (tag.key === "unknown" ? Infinity : -nodesPerTag[tag.key])),
-    [tags, nodesPerTag],
+    () =>
+      sortBy(tags, (tag) =>
+        tag.key === "unknown" ? Infinity : -nodesPerTag[tag.key]
+      ),
+    [tags, nodesPerTag]
   );
 
   return (
@@ -59,10 +71,15 @@ const TagsPanel: FC<{
       }
     >
       <p>
-        <i className="text-muted">Click a category to show/hide related pages from the network.</i>
+        <i className="text-muted">
+          Click a category to show/hide related pages from the network.
+        </i>
       </p>
       <p className="buttons">
-        <button className="btn" onClick={() => setTags(mapValues(keyBy(tags, "key"), () => true))}>
+        <button
+          className="btn"
+          onClick={() => setTags(mapValues(keyBy(tags, "key"), () => true))}
+        >
           <AiOutlineCheckCircle /> Check all
         </button>{" "}
         <button className="btn" onClick={() => setTags({})}>
@@ -78,7 +95,9 @@ const TagsPanel: FC<{
               className="caption-row"
               key={tag.key}
               title={`${nodesCount} page${nodesCount > 1 ? "s" : ""}${
-                visibleNodesCount !== nodesCount ? ` (only ${visibleNodesCount} visible)` : ""
+                visibleNodesCount !== nodesCount
+                  ? ` (only ${visibleNodesCount} visible)`
+                  : ""
               }`}
             >
               <input
@@ -90,11 +109,18 @@ const TagsPanel: FC<{
               <label htmlFor={`tag-${tag.key}`}>
                 <span
                   className="circle"
-                  style={{ backgroundImage: `url(${process.env.PUBLIC_URL}/images/${tag.image})` }}
+                  style={{
+                    backgroundImage: `url(${process.env.PUBLIC_URL}/images/${tag.image})`,
+                    background: tag.color,
+                    borderColor: tag.color,
+                  }}
                 />{" "}
                 <div className="node-label">
                   <span>{tag.key}</span>
-                  <div className="bar" style={{ width: (100 * nodesCount) / maxNodesPerTag + "%" }}>
+                  <div
+                    className="bar"
+                    style={{ width: (100 * nodesCount) / maxNodesPerTag + "%" }}
+                  >
                     <div
                       className="inside-bar"
                       style={{

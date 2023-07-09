@@ -1,31 +1,41 @@
-import React, { KeyboardEvent, ChangeEvent, FC, useEffect, useState } from "react";
+import React, {
+  KeyboardEvent,
+  ChangeEvent,
+  FC,
+  useEffect,
+  useState,
+} from "react";
 import { useSigma } from "react-sigma-v2";
 import { Attributes } from "graphology-types";
 import { BsSearch } from "react-icons/bs";
 
 import { FiltersState } from "../types";
 
-/**
- * This component is basically a fork from React-sigma-v2's SearchControl
- * component, to get some minor adjustments:
- * 1. We need to hide hidden nodes from results
- * 2. We need custom markup
- */
 const SearchField: FC<{ filters: FiltersState }> = ({ filters }) => {
   const sigma = useSigma();
 
   const [search, setSearch] = useState<string>("");
-  const [values, setValues] = useState<Array<{ id: string; label: string }>>([]);
+  const [values, setValues] = useState<Array<{ id: string; label: string }>>(
+    []
+  );
   const [selected, setSelected] = useState<string | null>(null);
 
   const refreshValues = () => {
     const newValues: Array<{ id: string; label: string }> = [];
     const lcSearch = search.toLowerCase();
     if (!selected && search.length > 1) {
-      sigma.getGraph().forEachNode((key: string, attributes: Attributes): void => {
-        if (!attributes.hidden && attributes.label && attributes.label.toLowerCase().indexOf(lcSearch) === 0)
-          newValues.push({ id: key, label: attributes.label });
-      });
+      sigma
+        .getGraph()
+        .forEachNode((key: string, attributes: Attributes): void => {
+          if (
+            (!attributes.hidden &&
+              attributes.label &&
+              attributes.label.toLowerCase().indexOf(lcSearch) === 0) ||
+            (attributes.key &&
+              attributes.key.toLowerCase().indexOf(lcSearch) === 0) // check for 'key' here
+          )
+            newValues.push({ id: key, label: attributes.label });
+        });
     }
     setValues(newValues);
   };
@@ -49,7 +59,7 @@ const SearchField: FC<{ filters: FiltersState }> = ({ filters }) => {
         { ...nodeDisplayData, ratio: 0.05 },
         {
           duration: 600,
-        },
+        }
       );
 
     return () => {
@@ -60,7 +70,18 @@ const SearchField: FC<{ filters: FiltersState }> = ({ filters }) => {
   const onInputChange = (e: ChangeEvent<HTMLInputElement>) => {
     const searchString = e.target.value;
     const valueItem = values.find((value) => value.label === searchString);
-    if (valueItem) {
+    const idItem = values.find((value) => value.id === searchString);
+
+    // combine two Item
+    if (valueItem && idItem) {
+      setSearch(valueItem.label);
+      setValues([]);
+      setSelected(valueItem.id);
+    } else if (idItem) {
+      setSearch(idItem.label);
+      setValues([]);
+      setSelected(idItem.id);
+    } else if (valueItem) {
       setSearch(valueItem.label);
       setValues([]);
       setSelected(valueItem.id);
@@ -70,7 +91,7 @@ const SearchField: FC<{ filters: FiltersState }> = ({ filters }) => {
     }
   };
 
-  const onKeyPress = (e: KeyboardEvent<HTMLInputElement>) => {
+  const onKeyDown = (e: KeyboardEvent<HTMLInputElement>) => {
     if (e.key === "Enter" && values.length) {
       setSearch(values[0].label);
       setSelected(values[0].id);
@@ -85,13 +106,13 @@ const SearchField: FC<{ filters: FiltersState }> = ({ filters }) => {
         list="nodes"
         value={search}
         onChange={onInputChange}
-        onKeyPress={onKeyPress}
+        onKeyDown={onKeyDown}
       />
       <BsSearch className="icon" />
       <datalist id="nodes">
         {values.map((value: { id: string; label: string }) => (
           <option key={value.id} value={value.label}>
-            {value.label}
+            {value.id}
           </option>
         ))}
       </datalist>

@@ -4,7 +4,11 @@ import { keyBy, omit } from "lodash";
 
 import { Dataset, FiltersState } from "../types";
 
-const GraphDataController: FC<{ dataset: Dataset; filters: FiltersState }> = ({ dataset, filters, children }) => {
+const GraphDataController: FC<{ dataset: Dataset; filters: FiltersState }> = ({
+  dataset,
+  filters,
+  children,
+}) => {
   const sigma = useSigma();
   const graph = sigma.getGraph();
 
@@ -22,24 +26,29 @@ const GraphDataController: FC<{ dataset: Dataset; filters: FiltersState }> = ({ 
         ...node,
         ...omit(clusters[node.cluster], "key"),
         image: `${process.env.PUBLIC_URL}/images/${tags[node.tag].image}`,
-      }),
+      })
     );
-    dataset.edges.forEach(([source, target]) => graph.addEdge(source, target, { size: 1 }));
+    dataset.edges.forEach(([source, target]) =>
+      graph.addEdge(source, target, { size: 1 })
+    );
 
     // Use degrees as node sizes:
-    const scores = graph.nodes().map((node) => graph.getNodeAttribute(node, "score"));
+    const scores = graph
+      .nodes()
+      .map((node) => graph.getNodeAttribute(node, "score"));
     const minDegree = Math.min(...scores);
     const maxDegree = Math.max(...scores);
-    const MIN_NODE_SIZE = 3;
-    const MAX_NODE_SIZE = 30;
+    const MIN_NODE_SIZE = 5;
+    const MAX_NODE_SIZE = 15;
     graph.forEachNode((node) =>
       graph.setNodeAttribute(
         node,
         "size",
-        ((graph.getNodeAttribute(node, "score") - minDegree) / (maxDegree - minDegree)) *
+        ((graph.getNodeAttribute(node, "score") - minDegree) /
+          (maxDegree - minDegree)) *
           (MAX_NODE_SIZE - MIN_NODE_SIZE) +
-          MIN_NODE_SIZE,
-      ),
+          MIN_NODE_SIZE
+      )
     );
 
     return () => graph.clear();
@@ -49,9 +58,13 @@ const GraphDataController: FC<{ dataset: Dataset; filters: FiltersState }> = ({ 
    * Apply filters to graphology:
    */
   useEffect(() => {
-    const { clusters, tags } = filters;
-    graph.forEachNode((node, { cluster, tag }) =>
-      graph.setNodeAttribute(node, "hidden", !clusters[cluster] || !tags[tag]),
+    const { clusters, tags, labels } = filters;
+    graph.forEachNode((node, { cluster, tag, label }) =>
+      graph.setNodeAttribute(
+        node,
+        "hidden",
+        !clusters[cluster] || !tags[tag] || !labels[label]
+      )
     );
   }, [graph, filters]);
 

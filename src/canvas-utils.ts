@@ -1,6 +1,5 @@
 import { NodeDisplayData, PartialButFor, PlainObject } from "sigma/types";
 import { Settings } from "sigma/settings";
-
 const TEXT_COLOR = "#000000";
 
 /**
@@ -38,8 +37,8 @@ export function drawHover(context: CanvasRenderingContext2D, data: PlainObject, 
   const subLabelSize = size - 2;
 
   const label = data.label;
-  const subLabel = data.tag !== "unknown" ? data.tag : "";
-  const clusterLabel = data.clusterLabel;
+  const subLabel = data.key
+  const clusterTextContent = data.clusterTextContent || [];
 
   // Then we draw the label background
   context.beginPath();
@@ -53,19 +52,22 @@ export function drawHover(context: CanvasRenderingContext2D, data: PlainObject, 
   const labelWidth = context.measureText(label).width;
   context.font = `${weight} ${subLabelSize}px ${font}`;
   const subLabelWidth = subLabel ? context.measureText(subLabel).width : 0;
-  context.font = `${weight} ${subLabelSize}px ${font}`;
-  const clusterLabelWidth = clusterLabel ? context.measureText(clusterLabel).width : 0;
 
-  const textWidth = Math.max(labelWidth, subLabelWidth, clusterLabelWidth);
+  let clusterTextWidths = clusterTextContent.map((text: string)  => {
+    context.font = `${weight} ${subLabelSize}px ${font}`;
+    return context.measureText(text).width;
+  });
+
+  const textWidth = Math.max(labelWidth, subLabelWidth, ...clusterTextWidths);
 
   const x = Math.round(data.x);
   const y = Math.round(data.y);
   const w = Math.round(textWidth + size / 2 + data.size + 3);
   const hLabel = Math.round(size / 2 + 4);
   const hSubLabel = subLabel ? Math.round(subLabelSize / 2 + 9) : 0;
-  const hClusterLabel = Math.round(subLabelSize / 2 + 9);
+  const hClusterTextContent = clusterTextContent.length * Math.round(subLabelSize / 2 + 9);
 
-  drawRoundRect(context, x, y - hSubLabel - 12, w, hClusterLabel + hLabel + hSubLabel + 12, 5);
+  drawRoundRect(context, x, y - hSubLabel - 12, w, hClusterTextContent + hLabel + hSubLabel + 12, 5);
   context.closePath();
   context.fill();
 
@@ -86,7 +88,9 @@ export function drawHover(context: CanvasRenderingContext2D, data: PlainObject, 
 
   context.fillStyle = data.color;
   context.font = `${weight} ${subLabelSize}px ${font}`;
-  context.fillText(clusterLabel, data.x + data.size + 3, data.y + size / 3 + 3 + subLabelSize);
+  for (let i = 0; i < clusterTextContent.length; i++) {
+    context.fillText(clusterTextContent[i], data.x + data.size + 3, data.y + size / 3 + 3 + subLabelSize + i * (subLabelSize + 2));
+  }
 }
 
 /**

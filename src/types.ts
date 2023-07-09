@@ -12,10 +12,18 @@ export interface Cluster {
   key: string;
   color: string;
   clusterLabel: string;
+  clusterTextContent: string[];
 }
 
 export interface Tag {
   key: string;
+  color: string;
+  image: string;
+}
+
+export interface Label {
+  key: string;
+  color: string;
   image: string;
 }
 
@@ -24,9 +32,11 @@ export interface Dataset {
   edges: [string, string][];
   clusters: Cluster[];
   tags: Tag[];
+  labels: Label[];
 }
 
 export interface FiltersState {
   clusters: Record<string, boolean>;
   tags: Record<string, boolean>;
+  labels: Record<string, boolean>;
 }
