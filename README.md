@@ -1,34 +1,79 @@
-# Sigma.js full-featured demo
+# Causal Relationship Network Visualization
 
-This project aims to provide a full-features "real life" application using sigma.js. It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and uses [react-sigma-v2](https://github.com/sim51/react-sigma-v2) to interface sigma.js with React.
+This project is a web-based application that visualizes a network of causal relationships between sentences. The aim of the project is to provide a visual representation of the complex web of cause-and-effect relationships present in a given source material. The network is generated using state-of-the-art natural language processing techniques to cluster sentences and identify causal relationships between them.
 
-## Dataset
+## Technologies Used
 
-The dataset has been kindly crafted by the [Sciences-Po médialab](https://medialab.sciencespo.fr/) and [OuestWare](https://www.ouestware.com/en/) teams using [Seealsology](https://densitydesign.github.io/strumentalia-seealsology/). It represents a network of Wikipedia pages, connected by ["See also"](https://en.wikipedia.org/wiki/See_also) links. It then was tagged by hand.
+The project is built using the following technologies:
 
-## Available Scripts
+- React: A JavaScript library for building user interfaces.
+- Sigma.js: A JavaScript library for visualizing networks and graphs.
+- React Sigma: A React wrapper for Sigma.js that allows easy integration with React applications.
+- Natural Language Processing (NLP) techniques: Advanced NLP algorithms are used to cluster sentences and detect causal relationships.
 
-In the project directory, you can run:
+## Key Features
 
-### `npm start`
+1. **Key and Categories:** Each cluster in the graph now includes a "key" and "category" to aid in understanding and navigation. The "key" represents the most significant word within the cluster, while the "category" provides a broader topic classification. The predefined categories are as follows:
+   - Cognitive Behavior
+   - Emotional Behavior
+   - Social Behavior
+   - Physical Behavior
+   - Health-related Behavior
+   - Economic Behavior
+2. **Node Sizes and Betweenness Centrality:** Node sizes in the graph are proportional to their betweenness centrality, indicating their importance as pivotal points in the network.
+3. **Powerful Search Functionality:** The updated app includes a robust search feature that allows you to search by keywords or cluster IDs. Simply enter your search query, and the corresponding node will be zoomed into view.
+4. **Filtering Options:** You can now filter the graph by categories, labels (keys), and cluster IDs. This feature enables different team members to focus on specific subsets of tasks more efficiently.
+5. **Tooltip and Highlighting:** Hovering over a node will display a tooltip with relevant information, while connected edges are highlighted for better visualization.
+6. **Persistent Node State:** Once a node is clicked, its state will be retained until you click on the empty canvas area.
 
-Runs the app in the development mode.\
-Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
+## Usage
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+To use the application, follow these steps:
 
-### `npm test`
+1. Clone the GitHub repository: `git clone https://github.com/your-username/causal-relationship-network.git`
+2. Navigate to the project directory: `cd causal-relationship-network`
+3. Install the dependencies: `npm install`
+4. Start the application: `npm start`
+5. Open your web browser and go to `http://localhost:3000` to access the application.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Or just click `https://songhaifan.github.io/causal_explorer/`
 
-### `npm run build`
+## Customization
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The application can be customized to work with different datasets or to incorporate additional features. Here are some possible customization options:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Data Source: Modify the data source to load a different set of sentences and their causal relationships. This could involve reading data from a file, connecting to an API, or integrating with a database.
+- Visualization Styles: Customize the appearance of the network visualization by modifying the styles, colors, and layouts used by Sigma.js.
+- Additional Features: Enhance the application with additional features such as search functionality, filtering options, or the ability to save and load networks.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Future Enhancements
+
+Here are some potential areas for future enhancement:
+
+- Advanced NLP Techniques: Explore the use of more sophisticated NLP techniques, such as deep learning models, to improve the accuracy and granularity of causal relationship detection.
+- Interactive Analysis: Enable users to interactively explore and analyze the network by adding features such as filtering, highlighting, and searching for specific keywords or clusters.
+- Export and Sharing: Allow users to export the network visualization as an image or share it with others through social media or other platforms.
+- Performance Optimization: Optimize the application's performance by implementing techniques such as lazy loading, data pagination, or server-side rendering.
+
+## Contributing
+
+Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue on the GitHub repository. Additionally, you can fork the repository, make your changes, and submit a pull request.
+
+When contributing to this project, please ensure that your code follows the existing coding style and conventions. Include appropriate test cases to verify the correctness of your changes.
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the code in this project for both commercial and non-commercial purposes.
+
+## Acknowledgements
+
+This project was made possible by utilizing several open-source libraries and technologies. We would like to acknowledge and express our gratitude to the developers and contributors of the following projects:
+
+- React
+- Sigma.js
+- React Sigma
+- Natural Language Processing libraries and tools used for clustering and causal relationship detection.
+
+## Contact
+
+If you have any questions or inquiries about this project, please contact [Songhai Fan](mailto:songhai.fan@monash.edu). We appreciate your interest and welcome any feedback you may have.
