@@ -46,21 +46,6 @@ The application can be customized to work with different datasets or to incorpor
 - Visualization Styles: Customize the appearance of the network visualization by modifying the styles, colors, and layouts used by Sigma.js.
 - Additional Features: Enhance the application with additional features such as search functionality, filtering options, or the ability to save and load networks.
 
-## Future Enhancements
-
-Here are some potential areas for future enhancement:
-
-- Advanced NLP Techniques: Explore the use of more sophisticated NLP techniques, such as deep learning models, to improve the accuracy and granularity of causal relationship detection.
-- Interactive Analysis: Enable users to interactively explore and analyze the network by adding features such as filtering, highlighting, and searching for specific keywords or clusters.
-- Export and Sharing: Allow users to export the network visualization as an image or share it with others through social media or other platforms.
-- Performance Optimization: Optimize the application's performance by implementing techniques such as lazy loading, data pagination, or server-side rendering.
-
-## Contributing
-
-Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue on the GitHub repository. Additionally, you can fork the repository, make your changes, and submit a pull request.
-
-When contributing to this project, please ensure that your code follows the existing coding style and conventions. Include appropriate test cases to verify the correctness of your changes.
-
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the code in this project for both commercial and non-commercial purposes.
