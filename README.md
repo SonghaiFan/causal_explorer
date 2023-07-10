@@ -36,7 +36,7 @@ To use the application, follow these steps:
 4. Start the application: `npm start`
 5. Open your web browser and go to `http://localhost:3000` to access the application.
 
-Or just click `https://songhaifan.github.io/causal_explorer/`
+Or just click <https://songhaifan.github.io/causal_explorer/>
 
 ## Customization
 
