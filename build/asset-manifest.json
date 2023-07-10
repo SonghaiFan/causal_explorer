@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/causal_explorer/static/css/main.b907dcee.css",
+    "main.js": "/causal_explorer/static/js/main.b832f286.js",
+    "index.html": "/causal_explorer/index.html",
+    "main.b907dcee.css.map": "/causal_explorer/static/css/main.b907dcee.css.map",
+    "main.b832f286.js.map": "/causal_explorer/static/js/main.b832f286.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b907dcee.css",
+    "static/js/main.b832f286.js"
+  ]
+}
