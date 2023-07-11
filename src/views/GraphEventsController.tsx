@@ -31,6 +31,13 @@ const GraphEventsController: FC<{
       clickStage() {
         setHoveredNode(null);
         setClicked(false);
+        // set all nodes to not highlighted
+        sigma
+          .getGraph()
+          .nodes()
+          .forEach((node) => {
+            sigma.getGraph().setNodeAttribute(node, "highlighted", false);
+          });
         console.log("Canvas was clicked with no node or edge under the cursor");
       },
       enterNode({ node }) {

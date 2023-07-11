@@ -11,6 +11,12 @@ import { BsSearch } from "react-icons/bs";
 
 import { FiltersState } from "../types";
 
+/**
+ * This component is basically a fork from React-sigma-v2's SearchControl
+ * component, to get some minor adjustments:
+ * 1. We need to hide hidden nodes from results
+ * 2. We need custom markup
+ */
 const SearchField: FC<{ filters: FiltersState }> = ({ filters }) => {
   const sigma = useSigma();
 
@@ -31,8 +37,7 @@ const SearchField: FC<{ filters: FiltersState }> = ({ filters }) => {
             (!attributes.hidden &&
               attributes.label &&
               attributes.label.toLowerCase().indexOf(lcSearch) === 0) ||
-            (attributes.key &&
-              attributes.key.toLowerCase().indexOf(lcSearch) === 0) // check for 'key' here
+            key.indexOf(lcSearch) === 0
           )
             newValues.push({ id: key, label: attributes.label });
         });
@@ -67,34 +72,41 @@ const SearchField: FC<{ filters: FiltersState }> = ({ filters }) => {
     };
   }, [selected]);
 
+  const zoomToNode = (node: string) => {
+    sigma.getGraph().setNodeAttribute(node, "highlighted", true);
+    const nodeDisplayData = sigma.getNodeDisplayData(node);
+    if (nodeDisplayData)
+      sigma.getCamera().animate(
+        { ...nodeDisplayData, ratio: 0.05 },
+        {
+          duration: 600,
+        }
+      );
+  };
+
   const onInputChange = (e: ChangeEvent<HTMLInputElement>) => {
     const searchString = e.target.value;
-    const valueItem = values.find((value) => value.label === searchString);
-    const idItem = values.find((value) => value.id === searchString);
+    console.log("values", values);
+    // find all values that match the search string
+    const valueItems = values.filter(
+      (value) => value.label === searchString || value.id === searchString
+    );
 
-    // combine two Item
-    if (valueItem && idItem) {
-      setSearch(valueItem.label);
-      setValues([]);
-      setSelected(valueItem.id);
-    } else if (idItem) {
-      setSearch(idItem.label);
-      setValues([]);
-      setSelected(idItem.id);
-    } else if (valueItem) {
-      setSearch(valueItem.label);
-      setValues([]);
-      setSelected(valueItem.id);
+    const valueItem = valueItems.find(
+      (value) => value.label === searchString && value.id === searchString
+    );
+
+    console.log("valueItem", valueItem);
+    console.log("valueItems", valueItems);
+
+    if (valueItems.length === 1) {
+      const valueID = valueItem ? valueItem.id : valueItems[0].id;
+      setSearch(valueID);
+      setSelected(valueID);
+      zoomToNode(valueID);
     } else {
       setSelected(null);
       setSearch(searchString);
-    }
-  };
-
-  const onKeyDown = (e: KeyboardEvent<HTMLInputElement>) => {
-    if (e.key === "Enter" && values.length) {
-      setSearch(values[0].label);
-      setSelected(values[0].id);
     }
   };
 
@@ -106,13 +118,12 @@ const SearchField: FC<{ filters: FiltersState }> = ({ filters }) => {
         list="nodes"
         value={search}
         onChange={onInputChange}
-        onKeyDown={onKeyDown}
       />
       <BsSearch className="icon" />
       <datalist id="nodes">
         {values.map((value: { id: string; label: string }) => (
-          <option key={value.id} value={value.label}>
-            {value.id}
+          <option key={value.id} value={value.id}>
+            {value.label}
           </option>
         ))}
       </datalist>
