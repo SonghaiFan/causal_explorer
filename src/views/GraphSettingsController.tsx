@@ -16,7 +16,7 @@ const GraphSettingsController: FC<{ hoveredNode: string | null }> = ({
 
   // Here we debounce the value to avoid having too much highlights refresh when
   // moving the mouse over the graph:
-  const debouncedHoveredNode = useDebounce(hoveredNode, 40);
+  const debouncedHoveredNode = useDebounce(hoveredNode, 10);
 
   /**
    * Initialize here settings that require to know the graph and/or the sigma
@@ -38,8 +38,10 @@ const GraphSettingsController: FC<{ hoveredNode: string | null }> = ({
    */
   useEffect(() => {
     const hoveredColor: string = debouncedHoveredNode
-      ? sigma.getNodeDisplayData(debouncedHoveredNode)!.color
+      ? graph.getNodeAttribute(debouncedHoveredNode, "color")
       : "";
+
+    console.log("hoveredColor", hoveredColor);
 
     sigma.setSetting(
       "nodeReducer",
