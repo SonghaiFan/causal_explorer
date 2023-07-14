@@ -7,8 +7,8 @@ This project is a web-based application that visualizes a network of causal rela
 The project is built using the following technologies:
 
 - React: A JavaScript library for building user interfaces.
+- TypeScript: A statically typed superset of JavaScript that adds optional types to the language, enhancing its robustness and maintainability.
 - Sigma.js: A JavaScript library for visualizing networks and graphs.
-- React Sigma: A React wrapper for Sigma.js that allows easy integration with React applications.
 - Natural Language Processing (NLP) techniques: Advanced NLP algorithms are used to cluster sentences and detect causal relationships.
 
 ## Key Features
@@ -30,8 +30,8 @@ The project is built using the following technologies:
 
 To use the application, follow these steps:
 
-1. Clone the GitHub repository: `git clone https://github.com/your-username/causal-relationship-network.git`
-2. Navigate to the project directory: `cd causal-relationship-network`
+1. Clone the GitHub repository: `git clone https://github.com/SonghaiFan/causal_explorer.git`
+2. Navigate to the project directory.
 3. Install the dependencies: `npm install`
 4. Start the application: `npm start`
 5. Open your web browser and go to `http://localhost:3000` to access the application.
