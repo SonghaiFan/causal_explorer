@@ -91,7 +91,7 @@ const ClustersPanel: FC<{
     >
       <p>
         <i className="text-muted">
-          Click a cluster to show/hide related pages from the network.
+          Click a cluster to show/hide related nodes from the network.
         </i>
       </p>
       <div>

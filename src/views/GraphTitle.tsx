@@ -38,9 +38,7 @@ const GraphTitle: FC<{ filters: FiltersState }> = ({ filters }) => {
         alt="Monash University"
       />
       <div className="graph-title">
-        <h1>
-          Causal Discovery for Event Flows Anotation Refinement Playground
-        </h1>
+        <h1>Causal Discovery for Event Flows Playground</h1>
         <h2>
           <i>
             {graph.order} node{graph.order > 1 ? "s" : ""}{" "}

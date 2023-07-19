@@ -72,7 +72,7 @@ const TagsPanel: FC<{
     >
       <p>
         <i className="text-muted">
-          Click a category to show/hide related pages from the network.
+          Click a category to show/hide related nodes from the network.
         </i>
       </p>
       <p className="buttons">
