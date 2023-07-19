@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/causal_explorer/static/css/main.b907dcee.css",
-    "main.js": "/causal_explorer/static/js/main.210ab718.js",
+    "main.js": "/causal_explorer/static/js/main.ef122573.js",
     "index.html": "/causal_explorer/index.html",
     "main.b907dcee.css.map": "/causal_explorer/static/css/main.b907dcee.css.map",
-    "main.210ab718.js.map": "/causal_explorer/static/js/main.210ab718.js.map"
+    "main.ef122573.js.map": "/causal_explorer/static/js/main.ef122573.js.map"
   },
   "entrypoints": [
     "static/css/main.b907dcee.css",
-    "static/js/main.210ab718.js"
+    "static/js/main.ef122573.js"
   ]
 }
