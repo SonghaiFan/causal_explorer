@@ -69,7 +69,7 @@ const LabelsPanel: FC<{
     >
       <p>
         <i className="text-muted">
-          Click a label to show/hide related pages from the network.
+          Click a label to show/hide related nodes from the network.
         </i>
       </p>
       <p className="buttons">
