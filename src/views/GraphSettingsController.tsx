@@ -41,7 +41,13 @@ const GraphSettingsController: FC<{ hoveredNode: string | null }> = ({
       ? graph.getNodeAttribute(debouncedHoveredNode, "color")
       : "";
 
-    console.log("hoveredColor", hoveredColor);
+    let neighbors: string[] = [];
+
+    if (debouncedHoveredNode && graph.hasNode(debouncedHoveredNode)) {
+      neighbors = graph.neighbors(debouncedHoveredNode);
+    }
+
+    console.log("neighbors", neighbors);
 
     sigma.setSetting(
       "nodeReducer",
@@ -50,7 +56,7 @@ const GraphSettingsController: FC<{ hoveredNode: string | null }> = ({
             node === debouncedHoveredNode ||
             graph.hasEdge(node, debouncedHoveredNode) ||
             graph.hasEdge(debouncedHoveredNode, node)
-              ? { ...data, zIndex: 1 }
+              ? { ...data, stroke: "black", zIndex: 1 }
               : {
                   ...data,
                   zIndex: 0,
@@ -61,17 +67,26 @@ const GraphSettingsController: FC<{ hoveredNode: string | null }> = ({
                 }
         : null
     );
+
     sigma.setSetting(
       "edgeReducer",
       debouncedHoveredNode
-        ? (edge, data) =>
-            graph.hasExtremity(edge, debouncedHoveredNode)
-              ? { ...data, color: hoveredColor, size: 4 }
-              : {
-                  ...data,
-                  color: EDGE_FADE_COLOR,
-                  hidden: true,
-                }
+        ? (edge, data) => {
+            // Check if edge has hovered node as extremity
+            if (graph.hasExtremity(edge, debouncedHoveredNode)) {
+              return { ...data, color: hoveredColor, size: 4 };
+            }
+
+            // Check if edge has any neighbor node as extremity
+            for (let node of neighbors) {
+              if (graph.hasExtremity(edge, node)) {
+                return { ...data };
+              }
+            }
+
+            // If edge does not satisfy above conditions, hide it
+            return { ...data, color: EDGE_FADE_COLOR, hidden: true };
+          }
         : null
     );
   }, [debouncedHoveredNode]);

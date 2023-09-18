@@ -116,9 +116,9 @@ const Root: FC = () => {
               <div className="panels">
                 <SearchField filters={filtersState} />
                 <DescriptionPanel />
-                <InformationPanel />
+                {/* <InformationPanel /> */}
 
-                <TagsPanel
+                {/* <TagsPanel
                   tags={dataset.tags}
                   filters={filtersState}
                   setTags={(tags) =>
@@ -135,7 +135,7 @@ const Root: FC = () => {
                         : { ...filters.tags, [tag]: true },
                     }));
                   }}
-                />
+                /> */}
                 <LabelsPanel
                   labels={dataset.labels}
                   filters={filtersState}

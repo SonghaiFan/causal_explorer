@@ -1,6 +1,5 @@
 import { useRegisterEvents, useSigma } from "react-sigma-v2";
 import { FC, useState, useEffect } from "react";
-import { set } from "lodash";
 
 function getMouseLayer() {
   return document.querySelector(".sigma-mouse");
