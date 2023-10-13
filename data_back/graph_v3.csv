@@ -1,0 +1,196 @@
+Cluster A,Cluster B,Your Decision
+(2) topic : a person buy something for another person,(149) topic : a person be excited,C
+(5) topic : a person buy a different thing,(358) topic : a person have to give something to another person,E
+(10) topic : a person get lost,(951) topic : a person stop to help,C
+(11) topic : a person lose something,(347) topic : a person can not find something / someone,C
+(11) topic : a person lose something,(323) topic : a person get a new something,C
+(11) topic : a person lose something,(933) topic : a person miss something,C
+(11) topic : a person lose something,(1054) topic : a person buy something new,C
+(11) topic : a person lose something,(57) topic : a person throw something to another thing,E
+(15) topic : a person speed,(1108) topic : the cop pull a person over,C
+(18) topic : a person ask another person to visit a place,(984) topic : a person like another person,E
+(20) topic : a person have a party,(261) topic : a person celebrate something,E
+(20) topic : a person have a party,(1032) topic : a person have to cook,C
+(28) topic : a person fall on something,(671) topic : a person come to help,C
+(34) topic : a person take something from someone,(360) topic : a person hit another person,C
+(34) topic : a person take something from someone,(477) topic : a person get something back,C
+(34) topic : a person take something from someone,(701) topic : a person be angry to another person,C
+(37) topic : a person work a lot,(950) topic : a person help out another person,C
+(40) topic : a person have a lot of work,(878) topic : a person ask another person for help,C
+(44) topic : something spill on a person,(130) topic : a person have to change,C
+(45) topic : a person spill something on another person,(266) topic : a person run into something / someone,E
+(46) topic : a person spill something on something,(339) topic : a person need to clean something up,C
+(46) topic : a person spill something on something,(338) topic : a person clean something,C
+(46) topic : a person spill something on something,(813) topic : a person remove another thing,C
+(52) topic : a person trip on something,(458) topic : a person drop something,C
+(54) topic : \a person decide to go for a trip,(771) topic : a person like travel,E
+(54) topic : \a person decide to go for a trip,(559) topic : a person pack something,C
+(58) topic : a person throw something,(362) topic : something hit a person,C
+(59) topic : a person throw something to a place,(426) topic : a person pick up something,C
+(60) topic : a person throw something to another person,(135) topic : a person get away from another person,C
+(60) topic : a person throw something to another person,(362) topic : something hit a person,C
+(62) topic : a person go somewhere with another person,(1065) topic : a person pick up another person,E
+(66) topic : a person get bored,(587) topic : a person play something,C
+(73) topic : a person follow another person,(136) topic : a person try to walk away from another person,E
+(85) topic : a person drive to a place,(1065) topic : a person pick up another person,C
+(85) topic : a person drive to a place,(1079) topic : a person have to leave for work,E
+(86) topic : a person drive a person to a place,(164) topic : a person need to go to a place,E
+(103) topic : a person decide to make food,(449) topic : a person buy ingredient,C
+(103) topic : a person decide to make food,(106) topic : a person want food,E
+(103) topic : a person decide to make food,(444) topic : a person start to get hungry,E
+(103) topic : a person decide to make food,(450) topic : a person get ingredient,C
+(107) topic : a person need food,(279) topic : a person be cook something edible,C
+(110) topic : a person hungry for food,(632) topic : a person drive to a place that have something,C
+(111) topic : a person want to eat,(1026) topic : a person start to cook,C
+(114) topic : a person want to meet up with another person,(1114) topic : a person have not see a person in a while,E
+(120) topic : a person learn how to do something,(1048) topic : a person decide to try something,E
+(128) topic : a person decide to change,(185) topic : a person hate something,E
+(140) topic : a person like something more than another thing,(233) topic : a person try another thing,E
+(140) topic : a person like something more than another thing,(597) topic : a person have something and another thing,E
+(141) topic : a person laugh at another person,(151) topic : a person be scared,E
+(141) topic : a person laugh at another person,(701) topic : a person be angry to another person,C
+(141) topic : a person laugh at another person,(152) topic : a person be scared of something,E
+(149) topic : a person be excited,(292) topic : a person meet another person 's pet,E
+(149) topic : a person be excited,(957) topic : a person ask another person a question,E
+(151) topic : a person be scared,(670) topic : a person seek for help,C
+(151) topic : a person be scared,(562) topic : a person visit a dentist,E
+(151) topic : a person be scared,(439) topic : a person go to a scary place,E
+(151) topic : a person be scared,(751) topic : a person steal something from another person,E
+(152) topic : a person be scared of something,(820) topic : a person tell another person,C
+(158) topic : a person want to go to a place,(499) topic : a person be on vacation,C
+(158) topic : a person want to go to a place,(582) topic : a person push another person into a place,C
+(161) topic : a person want something at a place,(965) topic : a person come to a place,C
+(164) topic : a person need to go to a place,(428) topic : a person get transportation,C
+(164) topic : a person need to go to a place,(553) topic : a person walk,C
+(165) topic : a person feel well,(844) topic : a person take a nap,E
+(165) topic : a person feel well,(717) topic : a person put something,E
+(165) topic : a person feel well,(417) topic : a person make friend,E
+(165) topic : a person feel well,(338) topic : a person clean something,E
+(169) topic : a person look for a job,(999) topic : a person need money,E
+(170) topic : a person get a job,(999) topic : a person need money,E
+(172) topic : a person do a job,(999) topic : a person need money,E
+(175) topic : a person decide to get a job,(999) topic : a person need money,E
+(176) topic : a person go to a place that sell pet,(847) topic : a person want a pet,E
+(182) topic : a person be on the swing,(581) topic : a person push another person,E
+(182) topic : a person be on the swing,(248) topic : a person go to a high place,C
+(185) topic : a person hate something,(816) topic : another person come to help a person,C
+(185) topic : a person hate something,(773) topic : a person sick of something,C
+(186) topic : a person hate doing something,(761) topic : a person do not want to do something,C
+(186) topic : a person hate doing something,(762) topic : a person do not do something,C
+(187) topic : a person write something,(337) topic : a person think about something / someone,E
+(195) topic : a person and another person do something together,(679) topic : a person invite another person,E
+(200) topic : a person do something,(760) topic : a person want another person to do an activity,E
+(205) topic : a person offer another person something,(822) topic : a person do something that require something,E
+(205) topic : a person offer another person something,(979) topic : a person ask a person about something,E
+(205) topic : a person offer another person something,(535) topic : a person want something,E
+(206) topic : a person apologize to another person,(702) topic : a person be upset to another person,E
+(206) topic : a person apologize to another person,(707) topic : a person be rude to a person,E
+(207) topic : a person make another person apologize,(701) topic : a person be angry to another person,E
+(209) topic : a person want to cook for another person,(1061) topic : a person love another person,E
+(211) topic : a person go to a park,(346) topic : a person want to play outside,E
+(224) topic : a person be nice,(984) topic : a person like another person,C
+(225) topic : a person buy a gift for another person,(1017) topic : a person 's birthday be come up,E
+(225) topic : a person buy a gift for another person,(1018) topic : a person have a birthday,E
+(226) topic : a person want to buy a gift for another person,(1061) topic : a person love another person,E
+(227) topic : a person have a fight with another person,(1083) topic : a person want to stop a person,C
+(227) topic : a person have a fight with another person,(360) topic : a person hit another person,E
+(232) topic : a person try to do something,(644) topic : a person begin to something,C
+(250) topic : a person work at a place,(999) topic : a person need money,E
+(263) topic : a person run towards a person,(611) topic : a person scream for another person,E
+(273) topic : a person be happy,(408) topic : a person give one or more people food,E
+(273) topic : a person be happy,(915) topic : a person give something to another person,E
+(273) topic : a person be happy,(950) topic : a person help out another person,E
+(273) topic : a person be happy,(478) topic : a person return something to another person,E
+(273) topic : a person be happy,(432) topic : a person suprise another person,E
+(276) topic : a person be alone,(940) topic : a person leave a person,E
+(276) topic : a person be alone,(960) topic : a person leave a place,E
+(291) topic : a person watch another person 's pet,(416) topic : a person leave town,E
+(296) topic : a person learn something from another person,(524) topic : a person fix something,E
+(300) topic : a person lose a pet,(493) topic : a person try to find something,C
+(300) topic : a person lose a pet,(892) topic : a person see another person cry,C
+(300) topic : a person lose a pet,(670) topic : a person seek for help,C
+(306) topic : a person play a sport,(363) topic : a person get hit,C
+(312) topic : a person fall in love with another person,(1061) topic : a person love another person,C
+(313) topic : a person love being with a person,(1061) topic : a person love another person,E
+(315) topic : a person compete in something,(802) topic : a person do something in a hurry,C
+(323) topic : a person get a new something,(1004) topic : something that belong to a person break,E
+(325) topic : a person have an event,(804) topic : a person buy food,C
+(330) topic : a person decide to go to another place,(727) topic : a person walk outside,C
+(330) topic : a person decide to go to another place,(564) topic : a person move away,C
+(347) topic : a person can not find something / someone,(878) topic : a person ask another person for help,C
+(347) topic : a person can not find something / someone,(611) topic : a person scream for another person,C
+(349) topic : a person bake,(449) topic : a person buy ingredient,C
+(364) topic : a person board a plane,(690) topic : a person decide to go for a vacation,E
+(370) topic : a person go to a place to buy something,(535) topic : a person want something,E
+(371) topic : a person have to buy something,(999) topic : a person need money,C
+(380) topic : a person steal something,(961) topic : a person leave something somewhere,E
+(381) topic : a person try to steal something,(686) topic : a person be obliged to pay for something,C
+(381) topic : a person try to steal something,(856) topic : a person talk to another person,C
+(382) topic : a person have something break,(1054) topic : a person buy something new,C
+(394) topic : a person do something well,(721) topic : a person feel proud of something,C
+(394) topic : a person do something well,(803) topic : a person do something fast,C
+(394) topic : a person do something well,(722) topic : a person be proud of someone,C
+(398) topic : a person look for another person,(767) topic : a person hide,E
+(433) topic : a person want to suprise another person,(1017) topic : a person 's birthday be come up,E
+(442) topic : a person travel to a place,(533) topic : a person need something,E
+(449) topic : a person buy ingredient,(1028) topic : a person decide to cook,E
+(450) topic : a person get ingredient,(1028) topic : a person decide to cook,E
+(473) topic : another person call a person,(933) topic : a person miss something,E
+(473) topic : another person call a person,(895) topic : a person have an illness,E
+(519) topic : a person fall from somewhere,(1008) topic : a person feel pain,C
+(525) topic : a person tell another person about something,(979) topic : a person ask a person about something,E
+(526) topic : a person tell another person about another person,(979) topic : a person ask a person about something,E
+(534) topic : a person need to do something,(799) topic : a person be in a class,E
+(535) topic : a person want something,(676) topic : a person look for something,C
+(540) topic : a person put on something warm,(989) topic : a person feel cold,E
+(548) topic : a person 's pet be hungry,(857) topic : something wake a person,C
+(555) topic : a person want to bake something for another person,(1017) topic : a person 's birthday be come up,E
+(557) topic : a person want to throw a party for another person,(1017) topic : a person 's birthday be come up,E
+(558) topic : a person plan a party for another person,(1017) topic : a person 's birthday be come up,E
+(564) topic : a person move away,(698) topic : a person have to head home,E
+(564) topic : a person move away,(1114) topic : a person have not see a person in a while,C
+(565) topic : a person move far away,(1114) topic : a person have not see a person in a while,C
+(572) topic : a person be in a hurry,(803) topic : a person do something fast,C
+(572) topic : a person be in a hurry,(964) topic : a person have to go somewhere,E
+(583) topic : a person be friend with a person,(984) topic : a person like another person,E
+(604) topic : a person see a person play,(647) topic : a person invite a person to play,E
+(608) topic : a person yell at someone,(756) topic : a person be oblige to do an activity,C
+(608) topic : a person yell at someone,(885) topic : a person stop do another thing,C
+(608) topic : a person yell at someone,(701) topic : a person be angry to another person,E
+(608) topic : a person yell at someone,(840) topic : another person get scared,C
+(612) topic : a person throw away something,(814) topic : a person want to get rid of something,E
+(617) topic : a person go on a date,(687) topic : a person get dressed,C
+(617) topic : a person go on a date,(1065) topic : a person pick up another person,C
+(619) topic : a person go for dinner with another person,(1065) topic : a person pick up another person,C
+(628) topic : a person go to a place that have something,(788) topic : a person get inside a vechicle,C
+(630) topic : a person drive to a place in something,(808) topic : a person meet another person at a place,C
+(646) topic : a person climb,(1002) topic : a person fall,C
+(670) topic : a person seek for help,(815) topic : another person help a person,C
+(670) topic : a person seek for help,(823) topic : a person need help on something,E
+(708) topic : a person do something rude to a person,(882) topic : a person tell another person to stop do something,C
+(721) topic : a person feel proud of something,(876) topic : a person make something,E
+(721) topic : a person feel proud of something,(980) topic : a person build something,E
+(732) topic : a person decide to go outside,(788) topic : a person get inside a vechicle,C
+(751) topic : a person steal something from another person,(893) topic : another person start to cry,C
+(767) topic : a person hide,(1014) topic : a person do not want to go to a place,E
+(768) topic : a person find somewhere to hide,(1033) topic : a person get chase,E
+(773) topic : a person sick of something,(949) topic : person seek help from another person,C
+(792) topic : a person burn something,(1031) topic : a person try to cook,E
+(793) topic : a person get burn,(1008) topic : a person feel pain,C
+(795) topic : a person run,(1002) topic : a person fall,C
+(815) topic : another person help a person,(823) topic : a person need help on something,E
+(815) topic : another person help a person,(1002) topic : a person fall,E
+(834) topic : a person need something new,(1004) topic : something that belong to a person break,E
+(834) topic : a person need something new,(1054) topic : a person buy something new,C
+(892) topic : a person see another person cry,(955) topic : a person want to help,C
+(944) topic : a person want to visit another person,(1063) topic : a person drive to another person 's house,C
+(950) topic : a person help out another person,(984) topic : a person like another person,E
+(952) topic : a person offer to help,(1003) topic : a person slip and fall,E
+(957) topic : a person ask another person a question,(1084) topic : a person stop another person,C
+(957) topic : a person ask another person a question,(984) topic : a person like another person,E
+(978) topic : a person ask a person for something,(999) topic : a person need money,E
+(984) topic : a person like another person,(1076) topic : a person sit near to another person,C
+(984) topic : a person like another person,(986) topic : a person date another person,C
+(986) topic : a person date another person,(1061) topic : a person love another person,E
+(1002) topic : a person fall,(1008) topic : a person feel pain,C
+(1002) topic : a person fall,(1039) topic : a person jump,E
