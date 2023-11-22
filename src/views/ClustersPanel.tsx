@@ -50,7 +50,7 @@ const ClustersPanel: FC<{
   );
 
   const [sliderValueLower, setSliderValueLower] = useState(0);
-  const [sliderValueUpper, setSliderValueUpper] = useState(1000);
+  const [sliderValueUpper, setSliderValueUpper] = useState(1200);
 
   useEffect(() => {
     // Make a copy of the current cluster state
