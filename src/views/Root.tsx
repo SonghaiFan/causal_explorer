@@ -10,11 +10,11 @@ import GraphDataController from "./GraphDataController";
 import DescriptionPanel from "./DescriptionPanel";
 import { Dataset, FiltersState } from "../types";
 import ClustersPanel from "./ClustersPanel";
-import InformationPanel from "./InformationPanel";
+// import InformationPanel from "./InformationPanel";
 import SearchField from "./SearchField";
 import drawLabel from "../canvas-utils";
 import GraphTitle from "./GraphTitle";
-import TagsPanel from "./TagsPanel";
+// import TagsPanel from "./TagsPanel";
 import LabelsPanel from "./LabelsPanel";
 
 import "react-sigma-v2/lib/react-sigma-v2.css";
