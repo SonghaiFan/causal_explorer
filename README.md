@@ -13,13 +13,7 @@ The project is built using the following technologies:
 
 ## Key Features
 
-1. **Key and Categories:** Each cluster in the graph now includes a "key" and "category" to aid in understanding and navigation. The "key" represents the most significant word within the cluster, while the "category" provides a broader topic classification. The predefined categories are as follows:
-   - Cognitive Behavior
-   - Emotional Behavior
-   - Social Behavior
-   - Physical Behavior
-   - Health-related Behavior
-   - Economic Behavior
+1. **Key and Categories:** Each cluster in the graph now includes a "key" and "category" to aid in understanding and navigation. The "key" represents the most significant sentence within the cluster, while the "category" provides a broader topic classification.
 2. **Node Sizes and Betweenness Centrality:** Node sizes in the graph are proportional to their betweenness centrality, indicating their importance as pivotal points in the network.
 3. **Powerful Search Functionality:** The updated app includes a robust search feature that allows you to search by keywords or cluster IDs. Simply enter your search query, and the corresponding node will be zoomed into view.
 4. **Filtering Options:** You can now filter the graph by categories, labels (keys), and cluster IDs. This feature enables different team members to focus on specific subsets of tasks more efficiently.
