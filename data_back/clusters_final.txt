@@ -1,0 +1,4312 @@
+Index 0 - Cluster 2 - TOPIC: a person buy something for another person
+(X5505) a person buy something for another person
+(51865) a person buy another person something
+(30509) a person buy something for a person
+(18863) another person to buy something for a person
+(54929) another person buy different type of something for a person
+(30503) another person buy a person another thing that can be buy with something
+(36568) a person buy another person something that another person already have
+(X8497) a person buy something that another person want for another person
+(45432) a person get something that another person want for another person
+(47390) a person buy something that another person like for another person
+(25225) a person buy another thing tangible for another person
+(26669) a person buy a gift for another person
+(46413) a person buy another thing for a person
+(52996) a person buy a person something
+(55555) a person buy another person another thing
+
+
+Index 1 - Cluster 5 - TOPIC: a person buy a different thing
+(14520) a person buy a different something
+(X7823) a person buy another thing which cost something
+(29748) a person end up buy something
+(34751) a person go another place and buy something
+(52948) a person buy another thing that go in something
+(55833) a person buy another thing that hold something
+
+
+Index 2 - Cluster 6 - TOPIC: a person see another person
+(XX466) another person see a person
+(X2573) a person see another person
+(X9298) a person watch another person
+(14561) a person see a still image of another person
+(14797) a person look at another person
+(30699) a person see a person by another place
+(35362) a person see an another person
+(52232) a person be come to see a person
+(56550) someone see another person somewhere
+(51437) a person visit another person
+(46241) a person see another person
+(49579) another person notice a person
+(X7712) a person see another person a place
+(20094) a person see another person in something
+(55619) a person see another person with something
+(56756) a person see another person be in something
+
+
+Index 3 - Cluster 9 - TOPIC: a person and another person see something
+(49178) a person and another person see the view
+(53624) a person and another person see present
+
+
+Index 4 - Cluster 10 - TOPIC: a person get lost
+(XX469) a person get lose
+(X2434) a person be lose
+(X7276) a person be lose in a place
+(X3733) a person lose
+(21991) a person get lose in a place
+
+
+Index 5 - Cluster 11 - TOPIC: a person lose something
+(X1484) a person lose something
+(18685) a person be lose something
+(27507) a person lose one of something 
+(31703) a person unknowingly lose something
+(45401) a person lose something
+(17211) a person lost something
+(13933) a person lose in something
+(43315) a person be lose in something
+(55871) a person lose a place
+
+
+Index 6 - Cluster 12 - TOPIC: a person play a game with another person
+(XX477) a person and another person play a game
+(X2724) a person play a game with another person
+(25307) a person be play ball with another person
+(45222) a person be play a game with another person
+(50200) a person and another person start to play the game
+(53978) a person and another person play game
+(54963) a person and another person continue to play a game 
+(11836) a person and another person be play a game
+(21722) a person and another person compete against each other in a game
+
+
+Index 7 - Cluster 13 - TOPIC: a person and another person play a sport
+(26421) a person and another person play a sport
+(28730) a person play a sport with a person
+(33901) a person and another person be play a sport
+(51268) a person play a ball game with another person
+
+
+Index 8 - Cluster 14 - TOPIC: a person do a performance
+(X9170) a person be do a performance
+(12840) a person have to give a performance
+(53247) a person make a performance
+(13573) a person be perform
+(14471) a person give a performance
+(32673) a person have a very important performance
+(X3906) a person to do a performance
+(X4559) a person have a performance
+
+
+Index 9 - Cluster 15 - TOPIC: a person speed
+(XX490) a person be speed
+(X1892) a person be speeding
+(X2944) a person speed
+(11872) a person go very fast
+(22806) a person move fast
+(32605) a person go fast
+(X4057) a person get fast
+(38726) a person be go fast
+(51860) a person be go very fast
+(10543) a person be fast
+
+
+Index 10 - Cluster 18 - TOPIC: a person ask another person to visit a place
+(XX510) a person ask another person to visit a place
+(X6927) a person ask out another person to a place
+(11664) a person ask another person to a place
+(21996) a person ask another person to go to a place
+(45956) another person ask a person to go to another place
+(49500) another person ask a person to go to a place
+
+
+Index 11 - Cluster 20 - TOPIC: a person have a party
+(XX515) a person have a party
+(X4655) a person host a party
+(X4884) a person hold a party
+(X9120) a person be throw a party
+(12217) a person have party
+(22373) a person be have a party
+(23087) a person hold a party
+(45191) a person have party
+(46423) a person have a party 
+(55823) a person host a party 
+
+
+Index 12 - Cluster 21 - TOPIC: a person go to a party
+(XX777) a person come to a party
+(X2121) a person go to a party
+(X4740) a person be go to a party
+(X6589) a person attend a party
+(X6979) a person go to the party
+
+
+Index 13 - Cluster 22 - TOPIC: a person decide to host a party
+(X3028) a person decide to have a party
+(11276) a person decide to hold a party
+(20288) a person decide to hold a type of party
+
+
+Index 14 - Cluster 24 - TOPIC: a person be in a party
+(13874) a person be at a party
+(14271) a person be in a party
+(54773) a person party
+
+
+Index 15 - Cluster 27 - TOPIC: a person fall off something
+(XX530) a person fall off something
+(26217) a person fall down from something
+(36658) a person fall of something
+(30830) a person slip and fall down something
+
+
+Index 16 - Cluster 28 - TOPIC: a person fall on something
+(13095) a person fall on top of something
+(20363) a person fall on something
+(30418) a person fall on a person
+(43709) a person slip and fall on something
+(29065) a person fall on a place
+
+
+Index 17 - Cluster 30 - TOPIC: a person get on something
+(X3222) a person go on something
+(XX531) a person get on something
+
+
+Index 18 - Cluster 31 - TOPIC: a person do an activity
+(X5164) a person be do an activity
+(40328) a person do activity
+(44293) a person be do with an activity
+(X9091) a person do an activity of something
+(12488) a person do another thing on something
+
+
+Index 19 - Cluster 34 - TOPIC: a person take something from someone
+(11811) a person take something from another person
+(16172) a person take thing from another person
+(28655) another person take thing from a person
+(37240) another person take something from a person
+
+
+Index 20 - Cluster 35 - TOPIC: a person take another person to do something
+(42791) another person take a person to do something
+(56835) a person take a person on something
+(15727) a person take another person do something
+(24140) another person take a person on another thing
+(51498) a person take another person to something
+
+
+Index 21 - Cluster 37 - TOPIC: a person work a lot
+(X1648) a person work a lot
+(X8238) a person do a lot of work
+(48224) a person be do a lot of work
+
+
+Index 22 - Cluster 40 - TOPIC: a person have a lot of work
+(18929) a person have to work a lot 
+(30717) a person have to do a lot of work
+(35914) a person have a lot of work to do
+(52568) a person have plenty work
+(15008) a person have a lot of work
+(46600) a person be get a lot of work do
+
+
+Index 23 - Cluster 44 - TOPIC: something spill on a person
+(X3829) something spill on a person
+(53466) something spill onto a person
+
+
+Index 24 - Cluster 45 - TOPIC: a person spill something on another person
+(X4862) another person spill another thing over a person
+(14585) a person spill something on another person
+(48347) a member of a person spill something on a person
+(53782) a person spill something on a person
+
+
+Index 25 - Cluster 46 - TOPIC: a person spill something on something
+(11561) a person spill something on another thing
+(44256) a person spill a substance on another thing
+(57516) a person spill something on something
+(34933) another person spill something among another thing
+
+
+Index 26 - Cluster 48 - TOPIC: a person give another person an invitation to a place
+(X1866) a person invite another person to come over
+(X2879) a person invite a person over
+(20425) a person invite over a person
+(51660) a person invite someone over
+(X7274) another person invite a person to a place
+(57224) another person invite a person to another place
+(X2129) a person invite a person
+(X6665) a person invite another person
+(XX563) a person give another person an invitation
+(X2129) a person invite a person
+(X6665) a person invite another person
+(XX563) a person give another person an invitation
+
+
+Index 27 - Cluster 50 - TOPIC: a person get invited
+(X7393) a person be invite to go
+(23674) a person be invite out
+(32481) a person be invite
+(31512) a person get invite
+(XX343) a person get invite to a place
+(XX433) a person be invite to a place
+(XX564) a person be invite to something
+(X7458) a person be invite in a place
+(X8486) a person recieve an invitation for another thing
+(22765) a person be invite to do an activity
+(43276) a person get an invitation to something
+(47344) a person be invite a place
+
+
+Index 28 - Cluster 51 - TOPIC: a person take a trip
+(XX867) a person go on a trip
+(X3211) a person take a trip
+(X8960) a person take a trip
+(47962) a person go on a trip
+(XX567) a person on trip 
+(24477) a person be go to a vacation destination 
+(40382) a person have a trip
+
+
+Index 29 - Cluster 52 - TOPIC: a person trip on something
+(X5724) a person trip on something
+(X5964) a person trip on something
+(26225) a person trip on a place
+
+
+Index 30 - Cluster 53 - TOPIC: a person want to go for a trip
+(X8818) a person want to take a trip
+(30181) a person want to go on a trip
+
+
+Index 31 - Cluster 54 - TOPIC: \a person decide to go for a trip
+(24304) a person decide to take a trip
+(33460) a person decide to go on a trip
+
+
+Index 32 - Cluster 56 - TOPIC: a person check on a place
+(XX569) a person check a place
+(21735) a person check a place for something
+(25226) a person check in a place for something
+
+
+Index 33 - Cluster 57 - TOPIC: a person throw something to another thing
+(XX580) a person throw something at another thing
+(X2703) a person throw something to another thing
+(X2957) a person throw another thing at something
+(X4365) a person throw something toward another thing
+(28970) a person throw something on another thing
+(32369) a person throw another thing to something
+(34985) a person throw something into another thing
+(46085) a person throw another thing on another thing
+
+
+Index 34 - Cluster 58 - TOPIC: a person throw something
+(X2517) a person throw something
+(10301) a person throw another thing
+(36319) a person throw an object
+(45404) a person throw something around
+
+
+Index 35 - Cluster 59 - TOPIC: a person throw something to a place
+(12194) a person throw something on a place
+(20291) a person throw something in a place
+(34851) a person throw something across a place
+(49773) a person throw something in front of another place
+(54054) a person be throw something across a place
+(43716) a person throw something to a place
+(44879) a person throw another thing into a place
+
+
+Index 36 - Cluster 60 - TOPIC: a person throw something to another person
+(35509) a person throw a person something
+(46532) a person throw something to a person
+(X5383) a person throw something at another person
+(20299) a person throw something toward another person
+(29790) a person throw something to another person
+(38373) a person toss something to another person
+(41708) another person throw something at a person
+(52571) a person throw an object at another person
+(55038) a person throw something across to another person
+(36606) another person throw a person something
+(37005) a person throw another person something
+(55853) a person throw something in the another place towards a person another person
+
+
+Index 37 - Cluster 61 - TOPIC: a person do something fun with another person
+(XX582) a person and another person do something fun
+(X8911) a person and another person do something for fun
+(22902) a person and a person to have fun doing something
+(36729) a person and another person to do something for fun
+(X5491) a person and another person be go to do something
+
+
+Index 38 - Cluster 62 - TOPIC: a person go somewhere with another person
+(X4162) a person go to a place with a person
+(11665) a person go to a place with another person
+(23626) a person go with another person to a place
+(26847) a person and another person go to a place together
+(35841) a person go to another place with a person
+(51990) a person and another person be go to a place
+(53500) a person and another person go to a place
+(54751) a person and another person get to a place
+(34530) a person and another person go toward a place
+
+
+Index 39 - Cluster 63 - TOPIC: a person go somewhere with another person to have fun
+(X6816) a person and another person go to a place for fun 
+(45690) a person go to a place fun with another person
+(23572) a person and another person go to have fun 
+(X7739) a person and another person go to a place that another person enjoy
+(32141) a person and another person take a person to do something fun
+(27846) a person take another person to a place fun
+
+
+Index 40 - Cluster 66 - TOPIC: a person get bored
+(X4461) a person get bored
+(20455) a person become bored
+(X6267) another person be bored
+(16467) a person be feel bored
+(36204) a person be so bored
+(47702) a person be very bored
+(52362) a person be really bored
+(44547) a person be bored 
+
+
+Index 41 - Cluster 67 - TOPIC: a person go to a place to get something
+(XX593) a person go to a place and get another thing
+(X1891) a person go a place for another thing
+(14211) a person go a place to get something
+(19102) a person go to another place for something
+(20365) a person get something from a place 
+(20844) another person get something from a place
+(39988) a person go to get something from a place
+(47767) a person go into a place to get something
+(53669) a person go to the place for something
+(16135) a person go to a place for another thing
+(34332) a person go to another place where something can be obtain
+(13832) a person go in to get something
+(12274) a person go to a place to something
+(44580) a person go to a place to get something
+
+
+Index 42 - Cluster 69 - TOPIC: a person and another person go on a trip
+(X1707) a person and another person go on the trip
+(12500) a person and another person go on a trip
+(19589) a person and another person take a trip
+(29331) a person and another person go on vacation
+(44283) a person and another person go to a vacation
+(45011) a person and another person go on something that be a trip
+(X6004) a person and a person be on a trip
+(42138) a person and another person be on a trip
+
+
+Index 43 - Cluster 73 - TOPIC: a person follow another person
+(XX598) a person follow another person
+(X7774) a person follow a person
+(14203) another person follow a person
+(23124) another person continue to follow a person
+(24734) a person be be follow by another person
+(25612) a person be follow another person
+(35560) a person keep follow another person
+(40677) another person to follow a person
+(53678) another person keep follow a person
+(X3915) someone follow another person somewhere
+
+
+Index 44 - Cluster 78 - TOPIC: a person get ready for something
+(X1251) a person be get ready for something
+(34444) a person get ready for an outing
+(35976) a person be get ready for an event
+(31659) a person get up and ready for something
+(38659) a person be ready to something
+(X5066) a person be get ready for a place
+(XX615) a person get ready to go to something
+
+
+Index 45 - Cluster 80 - TOPIC: a person do physical activity
+(X7829) a person do a physical activity
+(18116) a person be exercise
+(20729) a person do exercise
+(21825) a person do something that involve physical activity
+(22875) a person do a lot of exercise
+(34509) a person do an exercise
+(34829) a person be get exercise
+(41725) a person do something that involve physical exertion
+(56162) a person be do exercise
+(15133) a person get exercise
+(53277) a person be do something physical exertion
+
+
+Index 46 - Cluster 82 - TOPIC: a person sit on something
+(11279) a person sit at something
+(35580) a person sit on a seat
+(42524) a person be sit against a place
+(XX393) a person be sit on a place
+(X3064) a person be sit down at a place
+(10250) a person sit on a place
+(10822) a person be sit a place
+(16037) a person sit on something
+(16555) a person sit by a place
+(19556) a person sit on another thing that have a seat
+(21004) a person sit in something
+(28586) a person sit in an object use for sit on
+(30972) a person sit something on a place
+(33514) a person be sit in a place
+(48369) a person sit on something at a place
+(56404) a person be sit in something
+
+
+Index 47 - Cluster 85 - TOPIC: a person drive to a place
+(XX645) a person be drive to another place
+(XX708) a person be drive to a place
+(XX975) a person drive next to a place
+(X5528) a person drive to a place
+(X9401) a person make the drive to a place
+(15345) a person drive toward a place
+(28858) a person drive to a place
+(30120) a person drive back to a place
+(46987) a person drive to another place instead
+(55153) a person drive to a place that can be drive to
+(11888) a person be drive on a place
+(19916) a person drive around a place
+(44909) a person drive at a place
+(XX844) a person drive something
+(X6082) a person drives something
+(14808) a person be drive something
+(22493) a person be drive a vehicle
+(39868) a person be drive in a vehicle
+(54757) a person drive in something
+(34276) a person be drive in something
+(X3205) a person be drive
+(X4806) a person be driving
+(53755) a person drive anyway
+(19394) a person be drive on a road
+(22443) a person be drive on the road
+(11919) a person go drive
+(34681) a person be go for a drive
+(12920) a person drive on a way
+(34740) a person drive a vehicle to a place
+(40610) a person get in a vehicle and drive to a place
+(48088) a person drive a vehicle near a place
+(51128) a person be drive a car to a place
+
+
+Index 48 - Cluster 86 - TOPIC: a person drive a person to a place
+(34612) a person be drive a person to a place
+(35848) a person drive a person to a place
+(11392) a person drive a person around in something
+(32434) a person drive a person in something
+
+
+Index 49 - Cluster 89 - TOPIC: a person give another person food
+(17069) a person give a person food
+(29090) a person give food to a person
+(X1970) a person give another person food
+(X2783) a person give another person food
+(10154) a person give another person something to eat
+(13639) a person give food to another person
+
+
+Index 50 - Cluster 93 - TOPIC: a person hear something
+(X3775) another person near hear the noise
+(X5951) a person hear another thing
+(10038) another person hear a noise
+(17231) another person hear something
+(33533) another person listen to something
+
+
+Index 51 - Cluster 95 - TOPIC: a person hear another person
+(18169) a person hear another person
+(46065) a person listen to another person
+(X9358) a person hear another person talk
+
+
+Index 52 - Cluster 98 - TOPIC: a person go to shower
+(45021) a person go to take a shower
+(XX671) a person go to shower
+
+
+Index 53 - Cluster 99 - TOPIC: a person make food
+(XX680) a person make food
+(X5133) a person be make food
+(20147) a person make a food dish
+(26749) a person be go to make a meal
+(27192) a person make food_a
+(30048) a person make a food
+(32861) a person make something to eat 
+(36009) a person make the food
+(49096) a person also make food
+(53610) a person make good food 
+(55486) a person be make a food
+(41643) a person be able to make food
+(51432) a person be make a recipe
+
+
+Index 54 - Cluster 103 - TOPIC: a person decide to make food
+(22436) a person decide to make a type of food
+(26236) a person decide to make food
+
+
+Index 55 - Cluster 106 - TOPIC: a person want food
+(XX685) a person want a food
+(22435) a person want a meal
+(25106) a person be want food
+(31898) a person want a type of food
+
+
+Index 56 - Cluster 107 - TOPIC: a person need food
+(X1711) a person need something to eat
+(15916) a person need a food
+(17868) a person be need food
+(52646) a person feel need for food
+
+
+Index 57 - Cluster 108 - TOPIC: a person have food
+(21063) a person have something to eat
+(35332) a person have the food
+(46444) a person have a food
+(51557) a person have a meal
+(11778) a person be eat something
+(22515) a person eat a food
+
+
+Index 58 - Cluster 110 - TOPIC: a person hungry for food
+(32461) a person be hungry for something
+(46750) a person be hungry for food
+(X5639) a person be hungry for a type of food
+
+
+Index 59 - Cluster 111 - TOPIC: a person want to eat
+(X2789) a person want to eat something
+(X3398) a person want to eat
+
+
+Index 60 - Cluster 114 - TOPIC: a person want to meet up with another person
+(X2206) a person want to meet up with a person
+(21424) a person want to meet a person
+(37234) a person want to meet with a person
+(54924) a person want to meet with another person
+(28244) a person want to meet a person at another place
+
+
+Index 61 - Cluster 115 - TOPIC: a person meet another person
+(X5477) a person and another person just meet
+(X6964) a person meet up with another person
+(10008) a person meet with another person
+(14658) a person be meet up with another person
+(24191) a person meet up with a person
+(26263) a person and another person meet up
+(36233) another person meet a person
+(36664) another person meet another person
+(48362) a person just meet another person
+(49175) another person go to meet a person
+(52564) a person single meet another person
+(X1954) a person have a meeting with another person
+(X3564) a person met another person
+(X8773) a person meet other people
+
+
+Index 62 - Cluster 119 - TOPIC: a person learn something
+(X6300) a person be learn
+(12489) a person learn
+(19532) a person learn a lot
+(40345) a person learn alot
+(11600) a person learn a lesson
+(13197) a person learn the lesson
+(11600) a person learn a lesson
+(13197) a person learn the lesson
+
+
+Index 63 - Cluster 120 - TOPIC: a person learn how to do something
+(11094) a person learn to do something
+(16986) a person learn how to do something
+(46807) a person learn how to something
+(48775) a person learn to something
+(43362) a person learn new thing
+
+
+Index 64 - Cluster 124 - TOPIC: a person learn lesson about something
+(21558) a person learn a lesson about something
+(32016) a person learn another thing about something
+(X3909) a person learn an activity involve something
+(42535) a person get lesson on something
+(X7616) a person take lesson to learn a skill
+(44694) a person take a course to learn something
+
+
+Index 65 - Cluster 128 - TOPIC: a person decide to change
+(X2633) a person decide to change something
+(54139) a person decide to change
+
+
+Index 66 - Cluster 130 - TOPIC: a person have to change
+(X9646) a person have to change something
+(28788) a person have to change
+
+
+Index 67 - Cluster 132 - TOPIC: a person teach another person
+(X1695) a person teach a person
+(X7918) a person teach another person
+(18276) a person be teach another person
+(19121) a person be teach by a person
+(45801) a person be teach a person
+
+
+Index 68 - Cluster 134 - TOPIC: a person get taught a lesson
+(26981) a person be teach a lesson
+(48652) a person get teach a lesson
+
+
+Index 69 - Cluster 135 - TOPIC: a person get away from another person
+(XX748) a person walk away from another person
+(X2391) another person walk away from a person
+(X2428) a person move away from another person
+(X3202) a person get away another person
+(X5290) another person move away from a person
+(X6626) a person wander away from another person
+(11838) a person move away from a person
+(48981) a person go away from another person
+(56864) a person get away from a person
+
+
+Index 70 - Cluster 136 - TOPIC: a person try to walk away from another person
+(X5351) another person try to walk away from a person
+(23123) a person try to walk away from another person
+
+
+Index 71 - Cluster 141 - TOPIC: a person laugh at another person
+(XX791) a person laugh at a person
+(X3666) a person laugh at another person
+(X5560) another person laugh at a person
+(36096) a person laugh at a person 
+(46885) another person laugh at another person
+
+
+Index 72 - Cluster 143 - TOPIC: a person move a place
+(X5425) a person move a place
+(14850) a person be move a place
+(38848) another person move another place
+(15851) a person to move a place
+
+
+Index 73 - Cluster 146 - TOPIC: a person go from a place to another place
+(41546) a person move from another place to another place
+(44168) a person go from a place to another place
+(49798) a person recently move from a place to another place
+(21560) a person move from a place to another place
+
+
+Index 74 - Cluster 149 - TOPIC: a person be excited
+(XX808) another person be excited
+(X2658) another person be so excited
+(15230) another person be really excited
+(17140) another person feel excited
+(26954) another person be very excited
+(30099) another person be beyond excited
+(54113) another person get excited
+
+
+Index 75 - Cluster 151 - TOPIC: a person be scared
+(XX817) a person be scared
+(X8106) a person be terrified
+(X8876) a person feel scared
+(13410) a person feel scared
+(13813) a person be afraid
+(14077) a person be so scared
+(15752) a person be a bit afraid
+(32743) a person feel afraid
+(35908) a person be very scared
+(38475) a person be frightened
+(X3361) a person get scared
+(17713) a person become fearful
+(24448) a person become scared
+(36562) a person get more afraid
+(50879) a person get very scared
+(56809) a person get frightened
+(X6183) a member of a person be scared
+(46608) a person become frightened
+(26664) a person be scare to go to something
+(39455) a person be scared to go a place
+(48441) a person be scare of go to something
+(28600) a person be scare at another place
+
+
+Index 76 - Cluster 152 - TOPIC: a person be scared of something
+(X5446) a person fear something
+(10460) a person be scared of something
+(24256) a person be scare of something
+(55513) a person afraid of something
+(19922) another person be scared
+(23771) another person scared of things_a be scared something
+(29231) another person be frightened
+(22323) a person be afraid to something another thing
+(22685) another person be scare of something
+(30979) another person be afraid of something
+(45815) a person be afraid of another thing
+(X8913) a person be scared of go on another thing
+(35214) a person fear something and another thing
+
+
+Index 77 - Cluster 154 - TOPIC: a person ride a transportation to a place
+(19247) a person ride a means of transportation to a place
+(28129) a person rides a form of transportation to a destination
+(50883) a person ride in a form of transportation to a place
+
+
+Index 78 - Cluster 155 - TOPIC: a person ride to a place
+(XX828) a person go next to a place with ride
+(X5182) a person get a ride to a place
+(11752) a person ride to a place
+(X3151) a person be ride something to a place
+(34138) a person ride to a place that have something that a person can go on
+(53534) a person ride something to get there
+
+
+Index 79 - Cluster 158 - TOPIC: a person want to go to a place
+(X4135) a person want to get to a place
+(X5984) a person want to go back to a place
+(X6664) a person want to go to another place
+(X7203) a person want to move to a place
+(X7522) a person want to visit a place
+(X8277) a person want to visit another place
+(26259) a person want to go toward a place
+(48254) a person want to come to a place
+(47136) a person wish to visit a place
+(50435) a person want to go to a place
+(53436) a person want to go to a place
+
+
+Index 80 - Cluster 161 - TOPIC: a person want something at a place
+(35128) a person want something at a place
+(47215) a person want something at a place
+(38788) a person want to take something at a place 
+(39829) a person want to get something at a place
+(28485) a person want to do something at a place
+
+
+Index 81 - Cluster 164 - TOPIC: a person need to go to a place
+(20128) a person need to go a place
+(28647) a person need to get to a place
+(44629) a person need to get a place
+
+
+Index 82 - Cluster 165 - TOPIC: a person feel well
+(XX841) a person feel well
+(29240) a person feel good
+(35547) a person feel great
+(X7480) a person be now feel well
+(23802) a person feel well 
+(29526) a person feel so well
+(X5869) a person get well
+
+
+Index 83 - Cluster 169 - TOPIC: a person look for a job
+(X6523) a person be look for a job
+(51424) a person look for a job
+
+
+Index 84 - Cluster 170 - TOPIC: a person get a job
+(21727) a person take up a job
+(24242) a person get the job
+(44248) a person get a good job
+(44612) a person get a job 
+(52004) a person have job
+(53651) a person got a job
+(X3568) a person have a job at a place
+(16173) a person get a job at a place
+(34726) a person get a job in a place
+(X3568) a person have a job at a place
+(16173) a person get a job at a place
+(34726) a person get a job in a place
+
+
+Index 85 - Cluster 172 - TOPIC: a person do a job
+(33849) a person do a good job
+(47333) a person do job
+(52621) a person do a job
+(57337) a person be do job
+
+
+Index 86 - Cluster 173 - TOPIC: a person start a job
+(46599) a person begin a job
+(53223) a person start a job
+
+
+Index 87 - Cluster 175 - TOPIC: a person decide to get a job
+(48752) a person decide to get a job
+(50955) a person decide to do something as a job
+
+
+Index 88 - Cluster 176 - TOPIC: a person go to a place that sell pet
+(10569) a person go to a place that sell pet
+(32245) a person go into a place that sell pet
+(13166) a person go to the pet store 
+(35122) a person go to a pet store
+(26128) a person go to a place where one buy stuff for pet
+
+
+Index 89 - Cluster 181 - TOPIC: a person swinge on something
+(X2119) a person be swing on something
+(X8853) a person swing on the swing
+(28461) a person swing on a swing
+
+
+Index 90 - Cluster 182 - TOPIC: a person be on the swing
+(XX892) a person be on the swing
+(38856) a person get on a swing
+
+
+Index 91 - Cluster 185 - TOPIC: a person hate something
+(X1159) a person hate something
+(X8357) a person hate things_a
+(13177) a person hate another thing
+(46914) a person hate a situation
+(53333) a person dislike something
+
+
+Index 92 - Cluster 186 - TOPIC: a person hate doing something
+(21499) a person dislikes do something
+(24617) a person hate do something
+(54493) a person hate do another thing
+
+
+Index 93 - Cluster 187 - TOPIC: a person write something
+(XX958) a person write something
+(X8472) a person write down something
+(11879) a person write about another thing
+(32579) a person write about something
+
+
+Index 94 - Cluster 189 - TOPIC: a person start to write something down
+(X3553) a person start write down something
+(38248) a person start to write down something
+
+
+Index 95 - Cluster 190 - TOPIC: a person decide to write
+(19704) a person decide to write
+(41531) a person decide to write something
+
+
+Index 96 - Cluster 195 - TOPIC: a person and another person do something together
+(X6037) a person do something with another person
+(13061) a person be do something with a person
+(13151) another person do something with another person
+(13579) another person go to do something with a person
+(16355) a person do another thing with a person
+(18511) a person do an activity with another person
+(21241) a person be do something with another person
+(25257) a person do an activity with each other
+(42073) a person and another person do the specific action together
+
+
+Index 97 - Cluster 197 - TOPIC: a person and another person decide to do something together
+(14481) a person and another person decide to do an activity together
+(47567) a person and another person decide to do something together
+
+
+Index 98 - Cluster 199 - TOPIC: a person do something to another person
+(22746) a person do another thing to another person
+(22891) a person do a task for another person
+(29002) a person do something to another person
+
+
+Index 99 - Cluster 200 - TOPIC: a person do something
+(28528) another person do an activity
+(34212) another person do a task
+(34404) another person do something too
+(X9090) a person do something that has a different activity
+(26568) a person do something more
+(47239) a person do a different activity
+(52250) a person do another thing-related activity
+(X9092) a person start to do another thing
+(51781) a person start by do another thing
+
+
+Index 100 - Cluster 201 - TOPIC: a person and another person have something
+(X4387) a person have something with another person
+(X9340) a person and another person have something
+
+
+Index 101 - Cluster 202 - TOPIC: a person do an activity with another person and another person
+(33387) a person do an activity with another person and another person
+(44779) another person take a person and another person to do something
+
+
+Index 102 - Cluster 204 - TOPIC: a person and another person give another person something
+(XX995) a person and another person give another person something
+(22498) another person and another person give something to a person
+(38320) a person and another person give something to another person
+(25280) a person and another person give something to a person
+
+
+Index 103 - Cluster 205 - TOPIC: a person offer another person something
+(X3342) a person offer another person something
+(X3449) a person offer another person a good price for something
+(X5602) another person offer something next to a person
+(12339) a person offer something to another person
+(13575) another person offer something to a person
+(16544) a person offer another person a piece
+(40987) a person offer something next to another person
+(18015) a person give another thing to another person
+(25408) another person give a person more something
+(X3380) a person provide another person something
+(X4345) another person give a person another thing that a person need
+(28549) another person make an offer on something
+
+
+Index 104 - Cluster 206 - TOPIC: a person apologize to another person
+(X1018) a person apologize to another person
+(X3792) a person apologize to a person
+(11075) another person apologize to a person
+(14521) a person apologise next to another person
+(23966) another person apologize to another person
+(36289) a person apologise to another person
+(57246) another person apologise to a person
+(26256) another person apologize for another person
+
+
+Index 105 - Cluster 207 - TOPIC: a person make another person apologize
+(14082) another person make a person come over and apologize
+(32242) a person call another person to apologize
+
+
+Index 106 - Cluster 209 - TOPIC: a person want to cook for another person
+(X1806) a person want to cook for another person
+(21375) another person want to cook for a person
+
+
+Index 107 - Cluster 210 - TOPIC: a person make food for another person
+(X2764) another person make a person food
+(X3648) a person cook food for another person
+(X6970) another person make something hot food for a person
+(X8664) a person prepare food for another person
+(X8987) a person cook a food dish for a person
+(X9856) a person be cook for a person and another person
+(X9996) another person make food for a person
+(12526) a person cook for another person
+(16259) another person cook for a person
+(23980) a person cook a meal for a person
+(38064) another person cook something for a person
+(41800) a person cook a meal for another person
+(46435) a person be cook for a person
+(57743) a person make another person food
+
+
+Index 108 - Cluster 211 - TOPIC: a person go to a park
+(X1063) a person go to a park
+(X3063) a person go to the park
+(19393) a person be go to a park
+
+
+Index 109 - Cluster 212 - TOPIC: a person park
+(10286) a person park near a place
+(22670) a person parks something on a place
+(23146) a person park
+(34741) a person parks something at a place
+(40290) a person park something in there
+(56902) a person park in that spot
+
+
+Index 110 - Cluster 215 - TOPIC: a person and another person play
+(X1065) a person and another person play another thing together
+(12307) a person and another person be play
+(13182) a person and another person be play something
+(25354) a person and another person be play together
+(29010) a person and another person to play something together
+(45403) a person and another person play in something
+(45693) a person and another person be play with something
+(47284) a person and another person play
+(12559) a person play with another person
+(14645) a person be play with another person
+(20664) a person be play with another person in the a place
+
+
+Index 111 - Cluster 216 - TOPIC: a person play
+(X1496) a person be play another person
+(X3308) another person play something
+(10196) another person play something to a person and another person
+(X2290) a person be play something
+(X2696) a person play at a place
+(X3790) a person be play on something
+(X4275) a person play
+(15617) a person be play
+(23829) a person to play with something
+(54626) a person play at something
+
+
+Index 112 - Cluster 218 - TOPIC: a person and another person go to a play
+(15901) a person and another person go to a play
+(29901) a person go to a play with another person
+
+
+Index 113 - Cluster 224 - TOPIC: a person be nice
+(21182) a person be nice
+(41856) a person of something be nice
+
+
+Index 114 - Cluster 225 - TOPIC: a person buy a gift for another person
+(X1070) a person buy another person a gift
+(X1235) another person to buy a person something for a gift give occasion
+(X2542) another person buy a gift for a person
+(11922) another person buy a person a gift
+(25713) a person buy something that if a gift for another person
+(40705) a person buy something that will be a gift for another person
+(43755) a person buy things_a for another person
+(48464) another person buy something that a person like as a present
+(54956) a person buy a present for another person
+
+
+Index 115 - Cluster 226 - TOPIC: a person want to buy a gift for another person
+(X2199) a person want to buy a gift for another person
+(X5770) a person want to buy gift for another person
+(25780) a person want to buy another person a gift
+(29656) another person want to buy a gift for a person too
+
+
+Index 116 - Cluster 227 - TOPIC: a person have a fight with another person
+(X1087) a person be fight another person
+(X9814) a person pick a fight with another person
+(18302) a person fight another person for something
+(23347) a person battle another person
+(26418) a person be fight with another person
+(27143) a person have a fight with another person
+(29773) a person fight against each other
+(32818) a person fight another person
+(37243) a person and another person be battle
+(45589) a person have be fight with another person
+(46876) a person fight against another person
+(X3632) a person and another person fight
+(17506) a person and another person fight each other
+(17534) a person and another person battle with something
+(23307) a person and another person be fight in a place
+(25309) a person and another person have a fight
+(49612) a person and another person be battle each other
+(49768) a person and another person battle
+(52647) a person and another person have a fighting match
+(11958) a person be in a fight with another person
+(13939) a person get into a fight with another person
+(34041) yesterday a person get into a fight with another person
+(47486) a person get in a fight with another person
+(X5747) a person and another person get in a fight
+(46103) a person fight for another person
+
+
+Index 117 - Cluster 234 - TOPIC: a person get nervous
+(X1150) a person get nervous
+(25897) a person get very nervous
+(X1315) a person be nervous
+(29588) a person be very nervous
+(54972) a person be nervous
+(X1734) a person feel something nervous
+(12189) a person feel nervous
+(20506) a person feel nervous
+(31951) a person feel anxious
+(X1315) a person be nervous
+(29588) a person be very nervous
+(54972) a person be nervous
+(X1734) a person feel something nervous
+(12189) a person feel nervous
+(20506) a person feel nervous
+(31951) a person feel anxious
+
+
+Index 118 - Cluster 236 - TOPIC: a person and another person go to a place
+(X2635) a person go to another place with another person
+(X8761) another person go a place with a person
+(15208) another person go to another place with a person
+(29011) a person and another person go to a a place
+(34927) a person and another person be go a place
+(X2897) a person and a person go out a place
+(24192) a person and a person go out to a place
+(29602) a person and another person go to a place for something
+(34633) a person and another person go out to a place
+(36541) a person and another person go up to a place
+(37175) a person and another person go next to a place
+(29235) a person and a person go a place
+(45754) a person go out a place with a person
+(20713) a person and another person take a trip to a place
+(24217) a person and another person be on the way to a place
+(36976) a person and another person go something 's location
+(43664) a person and another person go to a place from another place
+(X8860) a person and another person go out to a place and another place
+
+
+Index 119 - Cluster 246 - TOPIC: a person pass something
+(17458) a person pass something
+(23604) a person pass something around
+(48538) a person pass
+
+
+Index 120 - Cluster 248 - TOPIC: a person go to a high place
+(X1211) a person go high
+(18202) a person go very high
+(44771) a person go really high
+(50160) a person go into a place high
+(55178) a person go a place high
+
+
+Index 121 - Cluster 250 - TOPIC: a person work at a place
+(X3723) a person work
+(X4788) a person work at a place
+(X6086) a person work a workplace
+(X6294) a person work a place
+(X9721) a person work in a workplace
+(13531) a person be work at a place
+(19675) a person work at a workplace
+(22180) a person work in a place
+(33276) a person work on the work
+(33871) a person be work on a place
+(34816) a person work at a place of employment
+(42949) a person work at something
+(50403) a person work at
+
+
+Index 122 - Cluster 251 - TOPIC: a person arrive at work
+(X7493) a person arrive at work
+(57487) a person arrive to work
+
+
+Index 123 - Cluster 256 - TOPIC: a person dance
+(X1221) a person dance
+(39574) a person be dance
+
+
+Index 124 - Cluster 261 - TOPIC: a person celebrate something
+(X1226) a person be celebrate an occasion
+(X3129) a person celebrate something
+(X6093) a person celebrate
+(22135) a person be celebrate something
+(27966) a person be celebrate
+(36913) another person be celebrate something
+(X9950) a person have a celebration
+
+
+Index 125 - Cluster 263 - TOPIC: a person run towards a person
+(X5577) another person run over to a person
+(12426) a person run toward another person
+(12943) a person run to another person
+(46879) a person run up to another person
+(47726) a person run towards another person
+(16026) another person come run toward a person
+
+
+Index 126 - Cluster 266 - TOPIC: a person run into something / someone
+(X1231) a person run into something
+(14584) a person run into another person
+
+
+Index 127 - Cluster 267 - TOPIC: a person drink
+(X1327) a person drink
+(X1919) a person drink a beverage
+(11294) a person drink another thing
+(12102) a person drink drink
+(13228) a person be drink
+(15476) a person be drink a beverage
+(21330) a person be drink something
+(31888) a person drink a drink
+(33045) a person have drink
+(46174) a person have a drink
+(53931) a person drink another thing liquid
+(54137) a person have something drink
+(18180) a person do drink
+(37801) a person sip a drink
+
+
+Index 128 - Cluster 273 - TOPIC: a person be happy
+(X1462) another person be happy
+(X2555) a person be happy with another thing
+(10155) another person cheer up and be happy
+(14610) another person be happy to have something
+(23975) another person be so happy
+(29407) a person be another thing happy
+(30151) a person be now another thing happy
+(33430) another person be happy to come
+(37731) another person feel happy
+(41230) another person be very happy
+(51186) another person stay happy
+
+
+Index 129 - Cluster 276 - TOPIC: a person be alone
+(X1289) another person be alone
+(X1444) a person be a place alone
+(X3484) a person be alone
+(X4696) a person be alone in a place
+(24048) a person be at a place alone
+(25115) a person be completely alone
+(33392) a person be alone at a place
+(34617) a person be somewhere alone
+(36915) a person be there alone
+
+
+Index 130 - Cluster 277 - TOPIC: a person go to a place alone
+(X2824) a person go out to somewhere alone
+(23864) a person go a place alone
+(28039) a person go alone
+
+
+Index 131 - Cluster 279 - TOPIC: a person be cook something edible
+(X1324) a person cook something edible
+(X1712) a person be cook something edible
+(X6876) a person be cook something
+(X9409) a person make something delicious and edible
+(15910) a person cook and eat food
+(17862) a person cook food ingredient
+(19265) a person be make an edible dish
+(25312) a person cook tasty food
+(32024) a person cook something tasty
+(36057) a person be cook food
+(41742) a person cook for something
+(51005) a person cook another thing edible
+(11251) a person prepare something edible
+(X4886) a person make a meal with another thing edible
+
+
+Index 132 - Cluster 283 - TOPIC: a person walk another person to a place
+(X1341) another person walk a person to a place
+(31811) a person walk another person to a place
+
+
+Index 133 - Cluster 284 - TOPIC: a person and another person walk to a place
+(X3216) a person and another person walk around a place
+(X7986) a person and another person walk to something
+(17969) a person and another person walk to another place
+(35685) a person and another person walk by a place
+(37833) a person and another person walk through a place
+(38478) a person and another person walk to a place instead
+(46126) a person and another person walk along a place
+(49177) a person and another person walk up a place
+
+
+Index 134 - Cluster 291 - TOPIC: a person watch another person 's pet
+(X1403) a person be watch the pet animal of another person
+(X5534) another person check on a person 's pet
+(17947) another person watch a person 's pet
+(44939) a person watch a pet for another person
+(48725) a person see another person 's pet
+
+
+Index 135 - Cluster 292 - TOPIC: a person meet another person 's pet
+(10845) another person get to meet a person 's pet
+(27563) a person meet another person 's pet
+
+
+Index 136 - Cluster 296 - TOPIC: a person learn something from another person
+(11769) a person learn from another person
+(43102) a person learn another thing from something
+(43649) a person learn from another thing
+(48931) another person learn something from a person
+
+
+Index 137 - Cluster 300 - TOPIC: a person lose a pet
+(X5405) a person lose a pet
+(X8396) a person lose a pet animal
+(32693) a person 's pet be lose
+(38053) a person lost a person 's pet
+(51259) a person lose a person 's pet
+(33890) a person 's pet disappear
+(56378) a person 's pet get lose
+
+
+Index 138 - Cluster 304 - TOPIC: a person have a sport event
+(X1437) a person have a sport game
+(42903) a person have a sport event
+(50505) a person have a a sport event
+
+
+Index 139 - Cluster 306 - TOPIC: a person play a sport
+(X6330) a person play a sport
+(14459) a person play in a sport
+(15403) a person play in a a sport of a sport
+(18449) a person participate in a sport event
+(24760) a person be play a game of a sport
+(32890) a person play in sport game
+(42764) a person play a team sport
+(51744) a person do a sport
+(55918) a person be participate in a sport
+
+
+Index 140 - Cluster 312 - TOPIC: a person fall in love with another person
+(28362) another person fall in love with a person
+(35615) a person fell in love with another person
+(34728) a person and another person fall in love with each other
+(47866) another person fall in love with something
+
+
+Index 141 - Cluster 313 - TOPIC: a person love being with a person
+(38331) another person love be with a person
+(51170) a person love be with another person
+
+
+Index 142 - Cluster 314 - TOPIC: a person participate in a competition
+(X1482) a person be participate in something competitive
+(X9093) a person participate in a competition
+(13082) a person participate in a competitive event
+(38209) a person participate in something competitive
+(56992) a person participate in something competetive
+
+
+Index 143 - Cluster 315 - TOPIC: a person compete in something
+(X3732) a person competes in something
+(X5621) a person compete
+(27008) a person competes in something and competition
+(28163) a person compete in a competition
+(34998) a person be compete
+(37694) a person be compete in a competition
+(49421) a person compete in a competition
+(52511) a person compete in something
+(X5431) a person do a competition
+(51455) a person go on a competition
+
+
+Index 144 - Cluster 317 - TOPIC: a person be at a competition
+(13946) a person be in a competition
+(42291) a person be at a competition
+(33952) a person be at something competitive
+
+
+Index 145 - Cluster 318 - TOPIC: a person be competitive
+(14229) a person be competitive
+(15151) a person get competitive
+
+
+Index 146 - Cluster 319 - TOPIC: a person have a competition
+(19595) a person have a contest
+(36829) a person have a competition
+
+
+Index 147 - Cluster 321 - TOPIC: a person enter a competition
+(21951) a person enter something in a competition
+(46948) a person enter a competition of something
+(40570) a person enter into a competition
+
+
+Index 148 - Cluster 322 - TOPIC: a person compete against another person
+(28023) a person compete against each other
+(57761) a person be compete against another person in a competition
+
+
+Index 149 - Cluster 323 - TOPIC: a person get a new something
+(X1485) a person get a new something
+(45743) a person get a new one
+(51985) a person get a new another thing
+
+
+Index 150 - Cluster 324 - TOPIC: a person go to an event
+(X1501) a person go to an event
+(20920) a person be go to an event
+(34060) a person go to the event
+(34326) a person go an event
+(54374) a person be head to an event
+
+
+Index 151 - Cluster 325 - TOPIC: a person have an event
+(X8566) a person be have an event
+(27081) a person have an event
+(54935) a person have an event
+
+
+Index 152 - Cluster 326 - TOPIC: a person attend an event
+(X8784) a person attend an event
+(10024) a person attend the event
+(28762) a person show up for an event
+(51212) a person come to an event
+(10283) a person arrive at an event
+(32661) a person make an appearance at an event
+
+
+Index 153 - Cluster 330 - TOPIC: a person decide to go to another place
+(X7740) a person decide to go to another place again
+(18138) a person be decide to go to a place
+(18292) a person decide to go to another place
+(23677) a person decide to go on a place
+(24043) a person decide to go somewhere else
+(25008) a person decide to go another place
+(28227) a person decide to go another location
+(31618) a person to decide where to go
+(35344) a person decide to go somewhere
+(46671) a person decide to take a trip to a new place
+(56160) another person decide to go elsewhere
+(11525) a person decide to move
+(21444) a person decide to move to the other side of the a place
+(19540) a person decide to go outside of a place
+
+
+Index 154 - Cluster 333 - TOPIC: a person and another person drive to a place
+(X1557) a person and another person drive another place
+(X5190) a person and another person drive to a place
+(20861) a person and another person drive in the direction of a place
+(29102) a person and another person drive through a place and another place
+(41494) a person and another person drive to something
+(47460) a person and another person drive through another place and another place
+(54068) a person and another person drive to a place to get something
+(51399) a person and another person get in another thing and drive to another place
+
+
+Index 155 - Cluster 335 - TOPIC: a person drive another person to a place
+(X4295) another person drive a person to a place
+(18952) a person drive another person to an activity
+(21083) a person drive another person to a place
+(31787) a person drive another person the location of something
+
+
+Index 156 - Cluster 336 - TOPIC: a person drive to another person 's place
+(26282) a person drive a means of transportation to another person 's location
+(27612) a person get in another thing and drive to another person 's location
+(X3075) a person get in something to drive to another person 's location
+
+
+Index 157 - Cluster 337 - TOPIC: a person think about something / someone
+(X1565) a person think another thing about something
+(12325) a person think about another thing
+(28376) another person think something
+(49852) another person think another thing about something
+(55721) a person think another thing
+(18125) a person think about another person
+(20059) a person think about another person during something
+(48848) a person think of another person
+
+
+Index 158 - Cluster 338 - TOPIC: a person clean something
+(X1581) a person clean up a place of another person
+(13515) another person clean something
+(19288) a person clean up another thing after something
+(21892) another person make clean a place
+(35072) a person clean another thing from something
+(53061) a person cleans something that belong to another person
+(55560) another person clean up something
+(XXX53) a person clean something
+(XX256) a person cleans something
+(X6841) a person cleans another place
+(X7059) a person cleans a place
+(10340) a person be clean up a place
+(10875) a person clean up something
+(12983) a person clean up a place
+(13468) a person cleans
+(13530) a person wipe something up
+(15976) a person clean a place
+(16590) a person clean up
+(17225) a person cleans a place where a person live
+(18424) a person be wash something
+(22953) a person be clean up
+(28505) a person cleans up something
+(30089) a person clean out something
+(30507) a person clean a room
+(31079) a person cleans out something
+(36951) a person clean another thing
+(41770) a person be clean something
+(45527) a person be clean out a place
+(46506) a person be clean a place
+(49243) a person clean out a place
+(51002) a person clean another thing off of something
+(54247) a person clean up another thing
+(56264) a person cleans something up
+(X3805) a person be clean
+
+
+Index 159 - Cluster 339 - TOPIC: a person need to clean something up
+(X6598) a person need to clean another thing
+(25680) another person have to do the cleaning
+(46588) another person have to clean something up
+(54819) a person have to clean something and another thing
+
+
+Index 160 - Cluster 344 - TOPIC: a person and another person walk together
+(11071) a person and another person be walk
+(17577) a person and a person be walk to a place
+(19446) a person and another person go for a walk
+(22585) a person and another person take a walk
+(22727) a person and another person walk on a place where people take a stroll one day
+(30320) a person and another person go walk
+(37491) a person and another person walk a place
+(37914) a person and another person go on a walk together
+(41042) a person and another person be walk on a place
+(48647) a person and another person be walk in a place
+(51755) a person and another person go for walk
+(41179) a person be walk with another person
+(48440) a person walk with another person
+(55397) a person walk with another person in a place
+(57720) a person walk at a place with another person
+
+
+Index 161 - Cluster 345 - TOPIC: a person play outside
+(X1632) a person go outside to play
+(X2363) a person go a place outside to do something play
+(X5062) a person be play outside
+(X9925) a person go out to play
+(15174) a person be play in a place outdoors
+(22480) a person be out play
+(23105) a person be play something in the a place
+(23179) a person play a place outdoors
+(30344) a person be play outside of a place
+(31498) a person play outside
+(36484) a person play outside of a place
+(47232) a person be play with something outside
+
+
+Index 162 - Cluster 346 - TOPIC: a person want to play outside
+(X3875) a person want to play outside
+(38760) a person want to play a place outside
+
+
+Index 163 - Cluster 347 - TOPIC: a person can not find something / someone
+(X1637) another person could not find something
+(17995) another person can not find something
+(20651) a person be not able to find another thing
+(23177) a person can not find another thing
+(32953) a person could not find something anywhere
+(12885) a person could not find another person
+(37665) a person can not find another person
+(27383) help, a person could not find something
+
+
+Index 164 - Cluster 349 - TOPIC: a person bake
+(X1745) a person bake
+(X4560) a person bake food
+(X6601) a person be bake
+(12092) a person bake cookie
+(30388) a person bake something
+(30939) a person be bake food
+
+
+Index 165 - Cluster 358 - TOPIC: a person have to give something to another person
+(24817) a person have to give another person another thing
+(30906) a person have to give something back to another person
+(X7982) a person have to gift something to another person
+(11170) a person have to give a gift to another person
+(21344) a person have to give another person a gift
+(24728) a person have to get a gift for another person
+(57658) a person have to give another person a a gift
+
+
+Index 166 - Cluster 360 - TOPIC: a person hit another person
+(X1738) another person strike a person
+(X2775) a person hit another person
+(10088) another person to hit a person
+(13276) a person attack another person
+(14458) another person hit a person
+(26385) another person attack a person
+(36955) another person hit something at a person
+(42754) a person be hit on another person
+
+
+Index 167 - Cluster 361 - TOPIC: a person hit something
+(X4276) a person hit another thing
+(27175) another person hit something
+(47393) a person hit a another thing
+
+
+Index 168 - Cluster 362 - TOPIC: something hit a person
+(X6224) something hit a person
+(20300) something hit another person
+
+
+Index 169 - Cluster 363 - TOPIC: a person get hit
+(35288) a person get hit by a person
+(43789) a person get hit by another thing
+
+
+Index 170 - Cluster 364 - TOPIC: a person board a plane
+(X1739) a person board a plane
+(X9977) a person board the plane
+(16392) a person board an airplane
+(32493) a person boards a plane
+(55603) a person board a flight
+(X3262) a person get on a plane
+(12662) a person get on the plane
+(18812) a person get on an airplane
+(31178) a person enter the plane
+(19910) a person go on a plane
+
+
+Index 171 - Cluster 370 - TOPIC: a person go to a place to buy something
+(X4090) a person go shop for something
+(15422) a person be go to buy something
+(X5881) a person go to a place that have thing for sale
+(12036) a person go to a store that sell something for something
+(24251) a person go to buy something
+(26056) a person stop a place and buy something
+(27510) a person go to the store to buy something
+(30279) a person go to a store to buy something
+(51368) a person go to a store to buy another thing
+(X6400) a person go to another place to buy something
+(X7928) a person go to a place to buy something and another thing
+
+
+Index 172 - Cluster 371 - TOPIC: a person have to buy something
+(X7911) a person have to buy something
+(X9923) a person have to go buy something more
+(26615) a person need to shop for something
+(26806) a person have to go shopping for something
+
+
+Index 173 - Cluster 372 - TOPIC: a person want to buy something
+(11200) a person want to purchase something
+(13683) a person want to buy something
+(15775) a person want to buy a something
+(17680) a person want to buy another thing
+(25395) a person want to buy another thing
+(53182) another person want to buy another thing
+
+
+Index 174 - Cluster 373 - TOPIC: a person buy something
+(19750) a person buy something instead
+(20988) a person buy thing
+(29747) a person buy ' something
+(40423) a person buy a place
+(45151) a person buy a something
+(50935) a person buy things_a
+(54405) a person buy the something
+(54930) a person buy material
+(35606) a person who want something buy something
+(11363) another person buy another thing
+(14533) a person buy another thing from a place
+(34125) another person buy something from a place
+(49693) a person buy another thing for a place
+(56926) a person go to another place and buy something
+(X5107) another person buy something
+(X6517) a person buy another something
+(17281) a person buy another thing
+(37363) a person buy another thing
+(41768) a person purchase another thing
+(48831) a person buy only another thing
+(54690) a person to buy another thing
+(23026) a person buy something, another thing, and another thing
+(X7198) a person buy another thing use in something
+(10847) a person buy another thing to make something
+(27431) a person buy another thing that produce something
+(43356) a person buy something that make another thing
+(53961) a person have buy something used in another thing
+(15776) a person buy a something with another thing
+(45565) a person buy something and another thing edible
+(49566) a person purchase something and another thing
+
+
+Index 175 - Cluster 376 - TOPIC: a person be out of a place
+(X1795) a person get out of a place
+(X5116) a person come out of a place
+(13333) a person be out of something
+(13795) a person be out
+(15070) a person get out of something
+(26108) a person get out something
+(49658) a person get out
+
+
+Index 176 - Cluster 377 - TOPIC: a person be something
+(X1797) a person be something and another thing
+(X4407) another person be another thing
+(11029) another person another thing something
+(18284) a person be another thing
+(22983) a person be something for another thing
+(27944) a person be something of another thing
+(29448) another person be something
+(42633) a person be in another thing to another thing
+(49707) a person be another thing at
+(51327) a person be another thing about another thing
+(X3554) a person be another thing now
+(28356) a person be now another thing
+(X6347) another person end up be something
+
+
+Index 177 - Cluster 380 - TOPIC: a person steal something
+(X1830) a person steal something from a person
+(X7505) a person steal something from a place
+(17731) a person steal from a person
+(22703) a person steal from a person at a place
+(23288) a person steal from another person
+(38864) a person steal from a place
+(52552) a person stole something from another person
+
+
+Index 178 - Cluster 381 - TOPIC: a person try to steal something
+(12801) a person try to enter a place to steal from there
+(22471) a person try to steal something from a place
+(15836) a person try to steal something
+(32039) a person be try to steal something
+(32828) another person try to steal another person
+(37966) a person be try to steal another person
+(51801) another person try to steal something
+
+
+Index 179 - Cluster 382 - TOPIC: a person have something break
+(10131) a person have something break
+(51152) a person have something that be break
+(X3235) a person 's something break
+
+
+Index 180 - Cluster 384 - TOPIC: a person go to place that have animal
+(X1851) a person go to a place where animal be at
+(X7881) a person go to a place where animal be
+(23238) a person go to a place that have animal
+(32712) a person go to a place that have a lot of animal
+(34834) a person go a place that have animal
+
+
+Index 181 - Cluster 386 - TOPIC: a person go to another person 's house
+(X1867) another person go to a person 's house
+(16860) a person go to another person 's home
+(20400) a person go to the home of another person
+(21355) a person go to a place where another person live
+(X4393) a person go to a person 's house
+(X7485) a person go to another person 's house
+(X9963) a person go to another person house
+(28024) a person be go to another person 's house
+(49143) a person go over to another person 's house
+(X8984) a person visit another person 's house
+(16858) a person be come to another person 's house
+(45390) a person come over a place home of another person
+(22984) a person go to another place 's house with another person
+(50783) a person walk with another person to another person 's home
+(16858) a person be come to another person 's house
+(45390) a person come over a place home of another person
+(22984) a person go to another place 's house with another person
+(50783) a person walk with another person to another person 's home
+
+
+Index 182 - Cluster 388 - TOPIC: a person bring another person home
+(13081) a person bring another person home
+(16477) a person take another person home
+(20421) a person take another person to another place home
+(20600) a person bring another person a home
+(25809) another person take a person home
+(49766) a person bring home another person
+
+
+Index 183 - Cluster 390 - TOPIC: a person be at another person 's home
+(25590) a person be at another person 's home
+(42015) another person be at a person 's home
+(44774) a person have be at another person 's home
+
+
+Index 184 - Cluster 394 - TOPIC: a person do something well
+(X1875) a person do something well
+(X2608) a person do well at something
+(13744) a person perform well at something
+(17818) a person do well at an activity
+(21802) a person do well in something
+(34708) a person do well on something
+(51003) a person do an activity well
+(20802) a person to end up do well at something
+
+
+Index 185 - Cluster 396 - TOPIC: a person get well at something
+(X6596) a person get well at something
+(X8213) a person get really good at something
+(15172) a person get well at do something
+
+
+Index 186 - Cluster 398 - TOPIC: a person look for another person
+(X1884) a person be look for another person
+(X2025) a person be be search for by another person
+(X3713) a person be look for a person
+(X6874) a person look for another person
+(13623) a person search for a person
+(17785) another person look for a person
+(33208) a person go to find another person
+
+
+Index 187 - Cluster 405 - TOPIC: a person hear something from a place
+(X1956) a person hear something from a place
+(X2047) a person hear a sound from a place
+(X4658) a person hear something in a place
+(X9452) a person hear another thing that live a place
+(14626) a person hear a noise come from something
+(33362) a person hear a noise from something
+(36292) a person hear something be a place
+(37808) a person hear something from a place
+(38549) a person hear a loud noise from something
+(52332) a person near a place hear another thing
+(52456) a person at a place hears something
+(48876) a person hear of something a place
+
+
+Index 188 - Cluster 408 - TOPIC: a person give one or more people food
+(14609) a person bring another person food
+(15301) another person bring a person food
+(29248) a person offer another person food
+(38247) another person get a person food
+(38808) another person take food to another person
+(41310) a person to get another person something to eat
+(41812) a person bring food to another person
+(48839) a person give thatis food to another person
+(49144) a person bring food for another person
+(39398) another person give a person and another person food
+
+
+Index 189 - Cluster 409 - TOPIC: a person invite a person for food
+(16508) a person invite a person for food
+(45946) a person invite another person to a place to eat a meal
+
+
+Index 190 - Cluster 416 - TOPIC: a person leave town
+(X5533) a person leave town
+(56188) a person be leave town
+(11397) a person be go out of town
+(13497) a person go out of town
+(40392) a person be out of town
+(54473) a person be visit out of town
+(26913) a person have be out of town
+(33008) a person have be out of town
+(37642) a person move out of town
+(51566) a person go about of town
+
+
+Index 191 - Cluster 417 - TOPIC: a person make friend
+(X6309) a person make friend
+(X6609) a person make new friend
+(20640) a person make a new friend
+(44791) a person make more friend
+
+
+Index 192 - Cluster 424 - TOPIC: a person pick out something
+(X5649) a person pick one out from something
+(X5895) another person pick out something
+(X6477) a person pick out a something
+(12099) a person go and pick out something
+(43343) another person pick out a something
+(14732) a person pick things
+(15964) a person pick another thing
+(16836) a person choose something
+(22123) a person pick the something
+(31142) a person choose another thing
+(31670) a person go and pick out another thing
+(32997) a person help pick another thing
+(39947) a person pick one of something
+(55791) another person be pick out something
+
+
+Index 193 - Cluster 425 - TOPIC: a person select one thing out of another thing
+(13833) a person choose another thing of another thing
+(45263) a person select another thing from something
+
+
+Index 194 - Cluster 426 - TOPIC: a person pick up something
+(31425) a person pick up another thing
+(34555) a person pick another thing up
+(XX369) another person pick up something
+(35583) another person pick something up
+(43657) another person pick up
+(51709) another person behind a person pick something up
+
+
+Index 195 - Cluster 428 - TOPIC: a person get transportation
+(X5729) a person get a means of transportation
+(X7667) a person acquire transportation
+(41492) a person get a transportation device
+(44630) a person get transportation
+
+
+Index 196 - Cluster 429 - TOPIC: a person be on transportation
+(X6657) a person be on something which transport thing
+(16641) a person be on a means of transportation
+(15656) a person be use a form of transport
+(22590) a person that need to get somewhere board a mode of transportation
+(24255) a person take a mode of transportation
+(31242) a person go on a mode of transportation
+(55652) a person be get into a means of transportation
+(52859) a person take a means of transportation into a place
+
+
+Index 197 - Cluster 432 - TOPIC: a person suprise another person
+(X5738) a person surprise another person with something
+(14666) a person surprise another person
+(27343) a person be surprise by another person
+(27455) another person be surprised by a person
+(28641) a person give a surprise to another person
+(32873) a person give a person a surprise
+(33620) a person surprise a person with something
+(33969) a person be give another person a surprise
+(37870) a person surprise a person with another thing
+(47245) a person surprise a person
+
+
+Index 198 - Cluster 433 - TOPIC: a person want to suprise another person
+(10206) a person want to surprise another person with something
+(30272) a person want to surprise a person
+(56920) another person want to surprise a person with something
+(56931) another person want to surprise a person
+
+
+Index 199 - Cluster 436 - TOPIC: a person be about to kiss a person
+(20085) a person and another person be about to kiss
+(47531) another person be about to get a kiss
+(48767) another person be about to kiss a person
+
+
+Index 200 - Cluster 438 - TOPIC: a person try to kiss another person
+(34526) another person try to kiss a person
+(44995) a person try to kiss another person in another thing
+
+
+Index 201 - Cluster 439 - TOPIC: a person go to a scary place
+(X6057) a person walk into a place that be scary
+(X6674) a person go to a place scary
+(56058) a person go to a place that can be scary
+(19243) a person go out to a place that be scary
+(41414) a person go on somewhere scary
+(33562) a person go to somewhere scary
+
+
+Index 202 - Cluster 440 - TOPIC: a person be stuck somewhere
+(X6065) a person be stick at a place
+(X8717) a person get stick in a place
+(14996) a person be stick in a place
+(26237) a person be stick a place
+(30280) a person be stick to something
+(34252) a person be stick inside
+(36656) a person get stick at a place
+(48118) a person be stick at something
+
+
+Index 203 - Cluster 442 - TOPIC: a person travel to a place
+(X6149) a person take a trip to a destination
+(X9219) a person go on a trip to a place
+(15253) a person travel to a place for something
+(21990) a person take a trip to a place
+(23226) a person go on a trip next to a place
+(28319) a person travel next to a place on something
+(32980) a person travel to see a place
+(38745) a person travel to something 's location
+(50345) a person take a trip to a place
+(56913) a person travel to a person 's location
+(13857) a person go to the destination
+(17526) a person get to the location of something
+(26327) a person take a means of transportation to a place
+
+
+Index 204 - Cluster 443 - TOPIC: a person be hungry
+(X6178) a person be so hungry
+(17622) a person be still hungry
+(21115) a person be something hungry
+(11339) a person feel hungry
+(41424) a person be feel hungry
+(56748) a person hungry feel hunger
+
+
+Index 205 - Cluster 444 - TOPIC: a person start to get hungry
+(22824) a person start to get hungry
+(39491) a person become hungry
+(30409) a person go hungry
+
+
+Index 206 - Cluster 449 - TOPIC: a person buy ingredient
+(X6390) a person buy ingredient for something
+(27947) a person buy some ingredient for another thing
+
+
+Index 207 - Cluster 450 - TOPIC: a person get ingredient
+(10317) a person gathers something ingredient
+(12046) a person get ingredient for something
+(23155) another person get an ingredient of something
+(40078) a person get an ingredient for something
+(45172) a person get ingredient ready
+(48074) a person get all the ingredient to make something
+(41907) a person get an ingredient in something
+
+
+Index 208 - Cluster 451 - TOPIC: a person and another person go to a place that sell something
+(X8741) another person take a person to a place that sell thing
+(46772) another person take a person to a place that sell something to buy something
+(55741) a person take another person to a place that sell something
+(40466) a person and another person go where one buy stuff
+(23349) a person and another person go to a place that sell something
+(29927) a person and another person go to a place where something be sell
+(31551) a person pull another person into a place where thing be sell at
+(45948) a person and another person go to a place that sell another thing
+
+
+Index 209 - Cluster 452 - TOPIC: a person and another person buy something
+(26075) a person and another person buy food
+(40998) a person and another person buy something at a place
+(X3480) a person and another person buy something
+(25279) a person and another person buy something for a person
+(34979) a person and another person buy something and another thing
+
+
+Index 210 - Cluster 455 - TOPIC: a person do not see something
+(X6485) a person do not see something
+(X8875) a person do not see anything in something
+(36275) a person do not see another thing
+(50275) a person do not see something again
+
+
+Index 211 - Cluster 458 - TOPIC: a person drop something
+(X7860) a person drop another thing
+(20549) a person drop something in a place
+(26822) a person drop something on a place
+(28614) a person drop everything
+(37648) a person drop things
+(14806) a person to drop something a place
+(54961) a person to drop something
+(14806) a person to drop something a place
+(54961) a person to drop something
+
+
+Index 212 - Cluster 468 - TOPIC: a person bring something and another thing
+(34448) a person bring something with another thing
+(57369) a person bring something and another thing
+
+
+Index 213 - Cluster 470 - TOPIC: a person be very sick
+(X6756) a person be very sick
+(12796) a person have a very bad a sickness
+(43676) a person be very ill
+(44056) a person be extremely sick
+(45995) a person be down sick
+
+
+Index 214 - Cluster 473 - TOPIC: another person call a person
+(X6839) another person call a person back
+(57434) another person call back a person
+(19902) another person be call a person
+(19989) another person call another person
+(29060) another person call to a person again
+(40505) another person call a person
+
+
+Index 215 - Cluster 476 - TOPIC: a person return to a place
+(X6938) a person return to another place with something
+(44767) another person return to a place
+(30133) a person return to a place
+(40653) a person return to a place with something
+(52729) a person return
+(17174) a person go back to something
+(21766) a person walk back to another place
+(22944) a person walk back a place
+(36855) a person return to another place
+(48284) a person be walk back to something
+(50690) a person go back to another thing
+(53713) a person walk back to a place
+(31511) a person take another thing back to a place
+
+
+Index 216 - Cluster 477 - TOPIC: a person get something back
+(21430) another person get something back
+(28152) another person get back something
+(56903) another person return something
+
+
+Index 217 - Cluster 478 - TOPIC: a person return something to another person
+(54197) a person return something that belong to another person
+(10997) a person return something to another person
+
+
+Index 218 - Cluster 484 - TOPIC: a person go somewhere with food
+(X7145) a person come the location of something to eat
+(32781) a person go another place where there be food
+(43967) a person go a place with a meal to be eat elsewhere
+
+
+Index 219 - Cluster 488 - TOPIC: a person play with a pet
+(10615) a person play with a pet
+(14353) a person play a game with a pet
+(23317) a person have fun with the pet
+(30123) a pet play with a person
+(39016) a person play with a person 's pet
+(39801) a person play with pet_a
+(42401) a person play with the pet
+(49989) a person play with a pet of a person
+
+
+Index 220 - Cluster 490 - TOPIC: a person live at a place
+(X7358) a person who live in something live at a place
+(13982) a person live near where something live
+(16309) a person live near something
+(16663) a person live at a place
+(30599) a person live in a place
+(39810) a person live in a a place
+(40862) a person live in something
+
+
+Index 221 - Cluster 493 - TOPIC: a person try to find something
+(X9843) a person try to find something
+(12406) a person try find a place
+(44972) a person try to find a place
+
+
+Index 222 - Cluster 494 - TOPIC: a person find something
+(13508) a person find something
+(15601) a person find another thing
+(18869) a person on something find something
+(27878) a person be find another thing
+(29994) a person find something a person like
+(33198) a person go through another place and find something another thing
+(33412) a person find another thing while do an activity
+(46522) a person find things
+(14662) a person find another thing at a place
+(41849) a person find something nearby
+(45333) a person find something down a place
+(56260) a person find something at a place
+(X3523) a person find something inside another thing
+(X4468) a person find another thing inside something
+(14604) a person find another thing inside
+(17078) a person find something in another place inside a place
+(19930) a person find a something at another thing
+(20292) another person find something in a place
+(21898) a person find another thing in something
+(24831) a person find something by another thing
+(24875) a person find a something in the another thing
+(25940) a person find the something in a person another thing
+(27097) a person find another thing among another thing
+(37954) a person find something inside a place
+(43001) a person find something under another thing
+(54682) a person find a part of something
+(56684) a person find something in another place
+
+
+Index 223 - Cluster 499 - TOPIC: a person be on vacation
+(X7508) a person be on vacation in a place
+(46497) a person vacation at a place
+(48242) a person be on vacation in a person 's location
+(X7523) a person go on vacation to a place
+(15701) a person go to a vacation to a place
+(21039) a person go on a vacation to a place
+(23958) a person go on a vacation in a place
+(26554) a person go on vacation a place
+(39002) a person be go on vacation to a place
+(54385) a person go to a place on vacation
+
+
+Index 224 - Cluster 500 - TOPIC: a person make something edible for another person
+(X8637) a person make another thing edible for a person
+(10188) a person make another person something edible
+(19829) a person be bake another person something edible
+(39049) a person make something edible for another person
+(48845) another person make a person something edible
+(50501) a person bake something edible for another person
+
+
+Index 225 - Cluster 502 - TOPIC: a person give something edible to another person
+(17664) a person give something edible to another person
+(47884) a person kind give another person something edible
+(45281) a person bring something edible to another person
+
+
+Index 226 - Cluster 504 - TOPIC: a person and another person stop at a park
+(19447) a person and another person stop at a park
+(31562) a person and another person stop at the park
+
+
+Index 227 - Cluster 507 - TOPIC: a person leave a pet
+(17210) a person leave a person 's pet
+(28741) a person leave behind a person 's pet
+(45915) a person leave a person 's pet behind
+(35797) a person leave something pet in a place
+
+
+Index 228 - Cluster 519 - TOPIC: a person fall from somewhere
+(X8162) a person fall from a place high up
+(X9000) a person fall down a place high
+(10891) a person fall from something above ground
+(18075) a person fall off a place high up
+(18416) a person fall of the be high
+(19517) a person fall off something high
+(28415) a person fall off something tall
+(31222) a person fall from a place high
+(35285) a person fall from something high up
+(35682) a person fall down from high place
+(37574) a person fall from something high
+(44763) a person fall from a place up high
+(54951) a person fall down from something tall
+(57438) a person fall down from a place high place
+
+
+Index 229 - Cluster 524 - TOPIC: a person fix something
+(X8686) a person be fix another thing
+(11768) another person fixes something
+(12219) another person fixes a problem
+(21903) a person fix the another thing
+(32195) a person fix another thing
+(42486) a person fix another thing with something
+(44269) another person fix something
+(X7916) a person repair something
+(15351) a person fix up a part of something
+(21509) a person repairs something
+(25377) a person be fix something
+(35392) a person fix up something
+
+
+Index 230 - Cluster 526 - TOPIC: a person tell another person about another person
+(36849) another person tell a person about another person
+(47453) another person tell a person something about another person
+
+
+Index 231 - Cluster 530 - TOPIC: a person invite another person to a place
+(X8891) a person invite another person to where one live
+(10592) a person invite another person to a person 's house
+(13560) a person invite another person to a place by a person 's house
+(22822) a person invite another person into a person 's house
+(42727) a person invite another person to where a person live
+(44127) a person invite a person to a person 's house
+(45244) a person invite another person over to a place where one live
+(54455) a person invite another person to a home
+(49048) a person invite friend over to the home of a person
+
+
+Index 232 - Cluster 532 - TOPIC: a person and another person meet over coffee
+(X9575) a person meet up with another person for coffee
+(12074) a person and another person go to get coffee
+(25808) a person drink coffee with another person
+(47371) a person and another person have coffee with another person
+(54000) a person and another person chat over coffee in a place
+
+
+Index 233 - Cluster 535 - TOPIC: a person want something
+(24495) a person want something for another thing
+(25407) a person want something for another thing
+(29826) a person want something on another thing
+(X4505) a person want to another thing
+(17938) a person want a another thing
+(21630) a person want something different
+(29043) a person want something to another thing
+(24547) another person want another thing
+(29290) a person want another one
+(31283) a person desire another thing
+(31595) a person want something the another thing
+(32726) a person want something in another thing
+(36965) a person want something and another thing
+(37911) a person want another thing in another thing
+(48951) a person want something that belong to another person
+
+
+Index 234 - Cluster 540 - TOPIC: a person put on something warm
+(11175) a person put on something warm clothing
+(12454) a person put on something warm
+(18277) a person put on a warm apparel
+(26131) a person put on a warm piece of clothing
+(32307) a person put on another thing warm
+(41023) a person wear something warm clothing
+(41218) a person cover up with something warm
+(46350) a person put on something clothing to stay warm
+(52946) a person put on warm clothe
+(56655) a person wear something hot
+
+
+Index 235 - Cluster 548 - TOPIC: a person 's pet be hungry
+(29246) a person 's pet be hungry
+(30594) a pet of a person be hungry
+
+
+Index 236 - Cluster 553 - TOPIC: a person walk
+(12832) a person walk after another thing
+(13517) a person walks across a place
+(14154) a person be walk across a place
+(17216) a person walk by
+(25925) a person walk across something
+(40172) a person walk across a place
+(40870) a person walk around something
+(52480) a person walk past something
+(57801) a person walk on a place
+(XX165) a person walk something up a place
+(X1459) a person walk to a place
+(X2855) a person walk over to a place
+(X3339) a person walk into something 's location
+(X4044) a person walk back up the a place
+(X4674) a person walk at a place
+(X6731) a person walk out of a place in something
+(X7910) a person walk something in a place
+(X9287) a person walk up to something
+(10734) a person walk to a a place
+(13193) a person walk through something 's location
+(20645) a person walk to the front of a place
+(24874) a person be walk to the a place
+(27342) a person be walk at a place
+(30029) a person walk up something
+(30924) a person walk over to something
+(37097) a person walk on a high object
+(41120) a person walk to something 's location
+(43285) a person walk back up a place
+(44179) a person walk to a place to do the activity
+(46431) a person go on a walk in another place
+(52399) a person be walk back to something a place
+(53394) a person walk to reach a place
+
+
+Index 237 - Cluster 555 - TOPIC: a person want to bake something for another person
+(19434) a person want to make a bake good for another person
+(30513) a person want to bake something for another person
+(32963) a person want to bake food for another person
+
+
+Index 238 - Cluster 557 - TOPIC: a person want to throw a party for another person
+(36785) another person want to throw a person a surprise party
+(44793) another person want to throw a surprise party for a person
+
+
+Index 239 - Cluster 558 - TOPIC: a person plan a party for another person
+(42782) a person plan a surprise party before a person
+(43965) another person plan a surprise party for a person
+(16993) another person be go to throw a person a surprise party
+
+
+Index 240 - Cluster 559 - TOPIC: a person pack something
+(X2005) a person pack something
+(42926) a person pack another thing
+(44372) a person pack
+(49967) a person pack belonging
+(50533) a person pack up something
+(51935) a person be pack something
+(14393) a person pack something and another thing and another thing
+
+
+Index 241 - Cluster 562 - TOPIC: a person visit a dentist
+(11327) a person go to the dentist
+(34279) a person go to a dentist
+(46185) a person visit dentist
+
+
+Index 242 - Cluster 564 - TOPIC: a person move away
+(X4099) a person move away
+(15989) a person be move away
+(24800) a person move out
+
+
+Index 243 - Cluster 565 - TOPIC: a person move far away
+(23805) a person move far away
+(48061) a person be move far away
+
+
+Index 244 - Cluster 566 - TOPIC: a person go away
+(25601) a person walk away
+(26177) a person go away
+(34796) a person have move away
+
+
+Index 245 - Cluster 571 - TOPIC: a person feed an animal
+(X2090) a person feed an animal
+(X5558) a person be feed animal
+(25288) a person be feed an animal
+(29631) a person go to feed the pet
+(45052) a person kind feed the animal
+(10393) a person feed an animal food
+(X7894) a person fed an animal
+(28373) a person fed the animal
+(37736) a person fed an animal food
+
+
+Index 246 - Cluster 572 - TOPIC: a person be in a hurry
+(X2114) a person rush
+(X2153) a person be in a hurry
+(13556) a person be rush
+
+
+Index 247 - Cluster 576 - TOPIC: a person have fun with a person
+(X2130) a person have fun with a person
+(X6038) a person and another person have lot of fun
+(14182) a person and a person have fun
+(14542) another person have fun with a person
+(15182) a person have fun with another person
+(16698) a person and another person have fun on something
+(23856) a person include another person have fun with something
+(25568) a person and another person have another thing fun
+(26488) a person and another person have so much fun
+(34274) a person and another person have a fun
+(35510) a person and a person have fun at something
+(46476) a person and another person have a lot of fun play together
+(49159) a person and a person have a fun time play together
+(54675) a person and a person have a fun time
+(54706) a person to have fun with a person
+(X3761) another person enjoy play with a person
+(X9489) a person have fun playing with a person
+(X5855) a person enjoy something with another person
+(18089) a person do something fun with another person
+(22306) a person and a person do a fun activity
+(51281) a person and another person do fun thing together
+(44665) a person play with something with another person
+(49831) a person play with something with a person
+(29535) another person play another thing with a person
+(35520) a person like play something with another person
+
+
+Index 248 - Cluster 581 - TOPIC: a person push another person
+(X2143) a person push another person to the ground
+(X9032) a person push another person on the ground
+(18527) a person push another person down
+(29218) a person push another person
+(34208) another person push a person
+(35291) a person push another person at a place
+(36436) a person push a person
+(46814) another person push a person on something
+
+
+Index 249 - Cluster 583 - TOPIC: a person be friend with a person
+(X2163) a person be friend with another person
+(41583) a person be friend with a person
+(12724) a person make friend with a person
+(35675) a person make friend with another person
+(10470) a person be another person's friend
+(31269) a person make a friend
+
+
+Index 250 - Cluster 585 - TOPIC: a person go with a person 's friend
+(15278) a person go to a place with a person's friend
+(37691) a person go with a person's friend
+
+
+Index 251 - Cluster 587 - TOPIC: a person play something
+(X4424) another person play with something
+(X5702) a person play with another thing
+(12932) a person play a game with something
+(35004) a person play with something and another thing
+(38763) a person play with something with another thing
+(42836) a person play with something from another thing
+(44229) a person play with something that belongs to another person
+(X8807) a person play another thing
+(18836) a person play another thing of another thing
+(14791) another person play another thing
+(25870) a person play things
+(29738) a person play an activity
+(32087) a person play aninstrument
+(36433) a person play many activity
+(47955) a person do another thing play game
+(52281) a person play a lot of something
+(56836) another person play on something
+(11368) another person be playing
+(34879) a person start play something
+(X3300) a person play a game
+(X3819) a person be play a game
+(11668) a person play game
+(30224) a person play games
+(32631) a person play ball
+(38138) a person be play ball
+(44092) a person be play sport
+(47682) a person play game
+(22912) a person get in the game
+(39564) a person start play a game
+(45750) a person do something play
+
+
+Index 252 - Cluster 588 - TOPIC: a person play with someone
+(X4780) a person play game with another person
+(27262) a person play with each other
+(32459) a person be play something with another person
+(15576) a person and another person play with something
+(37072) a person play with another person
+
+
+Index 253 - Cluster 604 - TOPIC: a person see a person play
+(X5776) a person see a person playing
+(13861) a person see a person play something
+(18174) a person see a person play a game
+(34693) a person see a person play with something
+(X2598) a person see someone play something
+
+
+Index 254 - Cluster 606 - TOPIC: a person be in a play
+(24105) a person be in a play
+(25954) a person be in play
+
+
+Index 255 - Cluster 608 - TOPIC: a person yell at someone
+(X3251) a person yell at another person
+(X3403) another person yell at a person
+(11402) another person scream to another person
+(20327) a person scream at a person
+(28257) another person screams at another person
+(57380) a person yell to another person
+
+
+Index 256 - Cluster 611 - TOPIC: a person scream for another person
+(16025) a person scream for another person
+(19783) a person scream out for another person
+
+
+Index 257 - Cluster 612 - TOPIC: a person throw away something
+(X2375) a person throw something away
+(11677) a person throw away something
+(19084) a person throw away something
+(25947) a person throw out something
+(26389) a person dispose of something
+(28306) a person throw away another thing
+(29635) a person throw something out
+(31970) a person throw something out a place
+(55575) a person throw away the old stuff
+
+
+Index 258 - Cluster 617 - TOPIC: a person go on a date
+(X2430) a person be out on a date
+(X6208) a person go on a date
+(10215) a person be go on a date
+(30689) a person be on date
+(53041) a person go out on a date
+
+
+Index 259 - Cluster 622 - TOPIC: a person go to a place
+(18510) a person go a place where another person
+(49938) a person go a place where another person be
+(50885) a person go to a place where another person be
+(28407) a person go another place across a place
+(X2444) another person go to a place at a place
+(X5092) another person come to a place
+(X6868) another person go to another place
+(X9877) another person come to another place
+(49049) another person go over to a place
+(51827) a person go to a place
+(56861) another person go to a place anyway
+(27096) a person be go to something
+(30333) another person go to something
+(52176) a person go to something and another thing 's location
+(55056) a person go a place during another thing
+(XX600) a person go a place inside
+(X4612) a person go straight to part of a place
+(X4668) a person be go a place
+(X6008) a person go to to a place
+(X8577) a person go something
+(10790) a person quickly go to a place
+(12223) a person go to a place
+(13696) a person go up to a place
+(14002) a person go on a place
+(15222) a person go to a place sometime
+(15534) a person go to a place for a place
+(15702) a person to go to a place
+(18933) a person be go next to a place
+(19841) a person go through a place
+(19981) a person go a place that a person be
+(20771) a person go in
+(23356) a person go to another place on another place
+(27521) a person go through another place in a place
+(29180) a person move through a place
+(30422) a person go out to a place
+(30740) a person be head out to a place
+(32670) a person go to a place near
+(32864) a person go to something in a place
+(36039) a person go down a place
+(36805) a person be go to another place a place
+(37140) a person go to another place in something
+(38529) a person go on something at a place
+(39642) a person go to part of another place
+(39768) a person go to a place in another place
+(40098) a person go for an activity in a place
+(43226) a person go to a place in something
+(46305) a person go in something
+(46577) a person go down to a place
+(46844) a person go to another place at a place
+(49449) a person go the location of something
+(49505) a person go at a place
+(52485) a person go to a place instead
+(53359) a person go to another place in a place
+(53453) a person have move to a place
+(54693) a person go to a place again
+(57055) a person go a place on something
+(57630) a person go out in something
+
+
+Index 260 - Cluster 627 - TOPIC: a person visit another person at a place
+(X8780) another person visit a person in a place
+(11802) a person go to visit another person in a place
+(36854) a person from another place visit another person at a place
+(41286) another person visit a person at a place
+(42546) another person visit another person in a place
+(45284) a person visit another person near a place
+(57799) a person go to visit another person at a place
+
+
+Index 261 - Cluster 632 - TOPIC: a person drive to a place that have something
+(10620) a person drive a place that contains something
+(32462) a person drive to a place that serves something
+
+
+Index 262 - Cluster 635 - TOPIC: a person take a vehicle to another person 's location
+(14957) a person takes a vehicle to another person's location
+(54517) a person takes a vehicle to where another person is
+
+
+Index 263 - Cluster 636 - TOPIC: a person and another person find something
+(X2509) a person and another person find an event in a place
+(28181) a person and another person find things
+(28291) a person and another person find something in a place
+(44732) a person and another person find something at a place
+
+
+Index 264 - Cluster 637 - TOPIC: a person find a place
+(15379) another person find something at a place
+(X3671) another person find a place
+
+
+Index 265 - Cluster 643 - TOPIC: a person and another person arrive at a place
+(29103) a person and another person arrive at another place
+(38996) a person and another person arrive at another place within a place
+
+
+Index 266 - Cluster 644 - TOPIC: a person begin to something
+(X2554) a person start to something for another thing
+(21133) a person start to something
+(28805) a person begin to something
+(37392) a person begin to another thing
+
+
+Index 267 - Cluster 645 - TOPIC: a person start something
+(X5391) a person begin with something
+(X5473) a person start something
+(10412) a person begin something
+(25602) a person start something new
+(26931) a person begin something at another place
+(41475) a person start another thing
+(44304) a person start up something
+(46539) a person start another thing with something
+
+
+Index 268 - Cluster 646 - TOPIC: a person climb
+(X2558) a person climb something
+(X2818) a person climb
+(15595) a person climb up
+(15847) a person climb up a place
+(22810) a person climb onto something
+(26216) a person climb up something
+(27066) a person climb a place high
+(27549) a person climb up to a place
+(30800) a person climb a place
+(32261) a person go climbing
+(47252) a person climb up a something
+(23744) a person climb out on something
+(38449) a person be out climbing
+
+
+Index 269 - Cluster 648 - TOPIC: a person play with a person
+(X6123) a person play something with a person
+(14104) a person play with a person
+(15516) a person be play with a person
+
+
+Index 270 - Cluster 649 - TOPIC: a person open a door
+(X2626) a person open the door
+(X3396) a person open a door
+(12688) a person open door
+(14285) a person open door 
+(36825) a person open the door to look around
+(40135) a person open the door of something
+(45512) a person open a place door
+
+
+Index 271 - Cluster 650 - TOPIC: a person new to a place
+(X2691) a person be new at a place
+(X9538) a person be at a place new
+(10334) a person be at a place new to a person
+(24974) a person be the new person at a place
+(27047) a person be new in the area
+(X6436) a person be new to a place
+(20407) a person new arrive in a place
+(36390) a person start attend a place that a person be new to
+(11902) a person be new to something
+
+
+Index 272 - Cluster 651 - TOPIC: a person have a new thing
+(X4883) a person have a new something
+(20015) a person be have something new
+
+
+Index 273 - Cluster 652 - TOPIC: a person go to a place that be new
+(14236) a person be go to a place that be new
+(43964) a person go to a place that be new
+
+
+Index 274 - Cluster 657 - TOPIC: a person go for a movie with another person
+(X2785) a person go to the movie with another person
+(17813) a person and another person go to a movie
+(18758) a person and another person go to a place that show movie
+(23666) a person go to a movie with a person
+(40864) a person and another person go to the movie theater
+(42738) another person go to the movie with a person
+(X7641) a person be watch a movie with a person
+(X7962) a person and another person watch a movie
+(21675) a person and another person go see a movie
+(37074) a person take another person to the movie
+
+
+Index 275 - Cluster 661 - TOPIC: a person do not talk to another person
+(31216) another person do not talk to a person
+(45022) another person do not speak to a person
+
+
+Index 276 - Cluster 664 - TOPIC: a person go a place with a person
+(X2866) a person go with a person to a place
+(17289) a person go a place with a person
+(47410) a person and a person go to a place
+(X2841) a person be a place with a person
+
+
+Index 277 - Cluster 670 - TOPIC: a person seek for help
+(X2871) a person ask for help
+(16655) a person ask for help with something
+(23762) a person go to seek help
+(52949) a person call for help
+(28625) a person ask a person for help
+
+
+Index 278 - Cluster 671 - TOPIC: a person come to help
+(X3857) a person come to help
+(16492) a person go to help
+(28829) a person be help out
+(13493) a person help a person
+(29066) a person go to help a person
+
+
+Index 279 - Cluster 676 - TOPIC: a person look for something
+(X9712) a person look for something in a place that another thing be in
+(22387) another person look for something
+(31423) a person look around for the something
+(47264) a person look in another thing for another thing
+(53513) a person be look for piece of something
+(X4704) a person be look for another place on something
+(22909) a person look in a place and another place for something
+
+
+Index 280 - Cluster 679 - TOPIC: a person invite another person
+(10023) a person invite a person to an event
+(51223) another person invite a person to an event
+(15108) a person invite another person at an event
+(12594) a person invite another person for another thing
+(13578) a person invite another person to do something
+(16354) a person invite a person to do another thing
+(19919) a person invite a person to something
+(21599) a person invite a person to go to somwhere a
+(22167) a person invite another person to play with something
+(27269) a person invite another person to do an activity
+(30405) a person invite another person to something
+(30515) a person invite a person for something
+(40420) a person invite a person to do something
+(52166) a person invite a person for another thing
+
+
+Index 281 - Cluster 682 - TOPIC: a person take a person to a place
+(X4330) a person take another person to a place
+(22437) a person take another person next to a place
+(32464) another person be take a person next to another place
+(46164) another person take a person to another place
+(X8348) a person bring another person at another place
+(25953) a person bring another person to the location of another person
+(24340) another person someone to somewhere
+
+
+Index 282 - Cluster 685 - TOPIC: a person get pay
+(31446) a person get money for something
+(35272) a person get pay
+(46124) a person get money for having something
+
+
+Index 283 - Cluster 686 - TOPIC: a person be obliged to pay for something
+(X3040) a person have to pay for something
+(32040) a person be force to pay for something
+
+
+Index 284 - Cluster 687 - TOPIC: a person get dressed
+(X7992) a person get dress
+(15984) a person be dress in something
+(17052) a person put on a dress
+(38168) a person be get dress
+(47700) a person be dress up
+(48808) a person be get dressed
+
+
+Index 285 - Cluster 690 - TOPIC: a person decide to go for a vacation
+(X3099) a person decide to go on vacation
+(56170) a person decide to take a vacation
+
+
+Index 286 - Cluster 695 - TOPIC: a person come to watch
+(X7207) a person come to watch
+(18450) a person come to watch something
+(56718) a person come to watch a person do something
+(32957) a person show up to watch
+
+
+Index 287 - Cluster 696 - TOPIC: a person go to watch
+(X9811) a person go to watch something
+(13574) a person go to watch
+(34999) a person go to watch a person
+
+
+Index 288 - Cluster 698 - TOPIC: a person have to head home
+(X7755) a person have to go home
+(29813) a person have to come back home
+
+
+Index 289 - Cluster 700 - TOPIC: a person be friend with another person
+(49370) another person be another person friend
+(52446) another person be a good friend of a person
+(56209) a person be a good friend of another person
+(33618) a person make friend with another person
+
+
+Index 290 - Cluster 701 - TOPIC: a person be angry to another person
+(X3233) a person be mad at another person
+(X5913) another person be mad at a person
+(X9775) another person get mad at a person
+(11936) another person be angry with a person
+(16171) a person be angry at another person
+(30486) a person get mad at another person
+(32241) a person be very angry at another person
+(50300) another person get angry at a person
+(53477) another person be angry at a person
+(57274) a person be very angry at another person
+(43811) a person anger another person
+(10456) a person be anger by another person
+(24424) a person be angry because another person
+(53538) another person make a person mad
+
+
+Index 291 - Cluster 702 - TOPIC: a person be upset to another person
+(X3602) a person be upset with another person
+(X7322) another person be upset with a person
+(X8441) a person get upset with another person
+(16999) another person be upset at a person
+
+
+Index 292 - Cluster 707 - TOPIC: a person be rude to a person
+(X3258) a person be rude to another person
+(X4972) a person be very rude to a person
+(34232) a person be rude to a person
+(44652) a person be rude next to another person
+
+
+Index 293 - Cluster 708 - TOPIC: a person do something rude to a person
+(10977) a person speak to another person in a rude manner
+(33682) a person say something rude to another person
+(22738) a person do something disrespectful to another person
+(41699) a person do something rude to another person
+(42444) another person do something rude
+(51537) a person do something unkind to another person
+
+
+Index 294 - Cluster 711 - TOPIC: a person go to a game
+(11513) a person go to the game
+(37008) a person be go to a game
+(42446) a person go to a game
+
+
+Index 295 - Cluster 713 - TOPIC: a person have a game
+(45133) a person have a game
+(48250) a person have a game of something
+(55682) a person have a ball game
+(12681) a person get a game
+
+
+Index 296 - Cluster 714 - TOPIC: a person have play something
+(28369) a person have play a sport
+(34605) a person have use to play something
+(39367) a person use to play something
+
+
+Index 297 - Cluster 717 - TOPIC: a person put something
+(X5860) a person put something on another thing
+(X9810) a person put something on top of another thing
+(21834) another person put on something
+(25580) a person be put on something
+(45376) a person put something onto another thing
+(51892) a person put something down on another thing
+(X8532) a person put something over another thing
+(31250) a person be put up another thing
+(47180) a person put out another thing
+(29881) a person put something in
+(31733) a person put something around something
+(42784) a person put something up
+
+
+Index 298 - Cluster 720 - TOPIC: a person fall proud
+(X3424) a person be proud
+(24489) a person feel proud
+(39454) a person be very proud
+
+
+Index 299 - Cluster 721 - TOPIC: a person feel proud of something
+(X4602) a person be proud of something
+(29891) a person be very proud of something
+(30093) a person be proud of another thing
+(36837) a person feel proud of another thing
+
+
+Index 300 - Cluster 722 - TOPIC: a person be proud of someone
+(12383) a person be proud of a person
+(42219) a person to be proud of a person
+(51693) a person be proud a person
+
+
+Index 301 - Cluster 726 - TOPIC: a person go outdoor
+(X3459) a person go outdoors
+(X3911) a person go outside
+(10050) a person go out a place that lead outside
+(18301) a person go a place outdoors
+(25190) a person go outside a place
+(35807) a person come outside
+(40542) a person go a place outside
+(46292) a person go to a place outdoors
+(47762) a person go to an open outdoor area
+
+
+Index 302 - Cluster 727 - TOPIC: a person walk outside
+(X9658) a person be walk outside
+(12238) a person walk outside
+(16108) a person walk outside of a place
+(18325) a person walk at a place outside
+(24385) a person walk a place outdoors
+
+
+Index 303 - Cluster 732 - TOPIC: a person decide to go outside
+(19686) a person decide to go a place outside
+(20908) a person decide to go outside
+(25459) a person decide to go a place outdoors
+
+
+Index 304 - Cluster 736 - TOPIC: a person and another person at a place that sell something
+(X3479) a person and another person shop at a place that sell something
+(50034) a person stop for something sell in a place with another person
+
+
+Index 305 - Cluster 743 - TOPIC: a person and another person go into something
+(X7987) a person and another person get in something
+(12228) a person and another person move into a place
+(15002) a person and another person go inside a place
+(19923) a person and another person come in a place
+(31829) a person and another person go into something
+(35255) a person and another person enter a place
+(48487) a person and another person get inside of a place
+
+
+Index 306 - Cluster 749 - TOPIC: a person eat
+(X3957) a person be eat something edible
+(X5791) a person be eat at a place
+(18584) a person be find eat something
+(25418) a person eat something anyway
+(27694) a person eat one of the something
+(42811) a person eat a person 's something
+
+
+Index 307 - Cluster 751 - TOPIC: a person steal something from another person
+(X3563) a person steal something from another person
+(X5481) a person steal something that belong to another person
+(13154) a person steal something that another person own
+(26395) a person steal food of another person
+(44751) a person steal posession possession from another person
+(49066) a person steal another person something
+(56182) a person steal another person 's something
+(21434) someone steal something that belong to a person
+(29462) a person steal another person from a place
+
+
+Index 308 - Cluster 752 - TOPIC: another person steal something
+(X7605) another person steal something
+(12104) a person be steal something
+(14448) another person steal something anyway
+(19410) another person steal back something
+(44224) a person steal another thing
+
+
+Index 309 - Cluster 756 - TOPIC: a person be oblige to do an activity
+(X3626) another person do an activity request by a person
+(34080) a person do an activity for another person
+
+
+Index 310 - Cluster 760 - TOPIC: a person want another person to do an activity
+(47533) a person hire another person to do an activity
+(48582) a person encourage another person to do an activity
+(33113) a person want another person to do an activity
+
+
+Index 311 - Cluster 761 - TOPIC: a person do not want to do something
+(X3643) a person do not want to do something
+(20152) a person do not want to do an activity
+(24574) a person do not want to make another thing
+(26465) a person do not want to do something
+
+
+Index 312 - Cluster 762 - TOPIC: a person do not do something
+(X8335) a person do not do something
+(49642) a person do not something
+(X5685) a person do not want to try something
+(33611) a person be really a person who do not want to do anything
+
+
+Index 313 - Cluster 767 - TOPIC: a person hide
+(X3670) a person hide a place
+(X4845) a person hide inside a place
+(X5335) a person be hide behind another place
+(X9149) a person hide in another place
+(17784) a person hide
+(32561) a person hide in something
+(40384) a person be hide a place
+(55060) a person to hide in something
+
+
+Index 314 - Cluster 768 - TOPIC: a person find somewhere to hide
+(X3884) a person find a hiding spot
+(10463) a person find a place to hide
+
+
+Index 315 - Cluster 769 - TOPIC: a person travel
+(X3675) a person be travel
+(X7950) a person travel a place
+(17750) a person be travel to a place
+(27520) a person be travel in a place
+(33576) a person travel around a place
+(49328) a person go to a destination
+
+
+Index 316 - Cluster 771 - TOPIC: a person like travel
+(24815) a person like to travel
+(51063) a person like travel
+
+
+Index 317 - Cluster 773 - TOPIC: a person sick of something
+(15905) a person get sick of another thing
+(38050) a person get sick of something
+(45129) a person be sick of something
+(25373) a person be sick with something
+
+
+Index 318 - Cluster 776 - TOPIC: a person win
+(X3712) a person win
+(11166) a person be win the contest
+(13258) a person be win
+(14230) a person be win the game
+(19596) a person win the contest
+(20924) another person win
+(46877) a person end up win
+(50024) another person win something
+
+
+Index 319 - Cluster 777 - TOPIC: a person want to win
+(X9094) a person want to win something
+(11993) a person want to win
+(30946) a person want to win at something
+
+
+Index 320 - Cluster 782 - TOPIC: a person take a bath
+(X3804) a person bathe
+(29621) a person be take a bath
+(31176) a person take a bath
+
+
+Index 321 - Cluster 788 - TOPIC: a person get inside a vechicle
+(X4805) a person get into a vehicle
+(X8371) a person get in a vehicle
+(X9547) a person get in a car
+(X9741) a person go into a vehicle
+(13644) a person enter a vehicle
+(19677) a person go in vehicle
+(21506) a vehicle come and a person get on
+(27638) a person get into the car
+(27868) a person get in the car
+(37170) a person be go on a vehicle
+(42766) a person get on the vehicle
+(46163) a person get into a car
+
+
+Index 322 - Cluster 792 - TOPIC: a person burn something
+(X4810) a person burns something
+(X7034) a person burns something inside a place
+(10032) a person burn something
+(16741) a person burn down something
+(38326) a person end up burn something
+(37633) a person burn one of something
+(56327) a person to burn something
+
+
+Index 323 - Cluster 793 - TOPIC: a person get burn
+(14126) a person get burn from something
+(18157) a person get burn
+(X4023) something burn a person
+(X8518) a person be burn
+
+
+Index 324 - Cluster 794 - TOPIC: a person get used to do something
+(X4033) a person see get use to do something
+(30107) a person get use to do something
+(57104) a person get use in that activity
+(32969) a person find use to do another thing
+
+
+Index 325 - Cluster 795 - TOPIC: a person run
+(X6516) a person be run
+(X7448) a person run into a place
+(11642) a person run into a place for something
+(14282) a person be do something run
+(48230) a person be run with something
+(16664) a person run at a place
+(50327) a person run around
+(55826) a person in a place run
+(57109) a person be running
+
+
+Index 326 - Cluster 796 - TOPIC: a person run down something
+(13320) a person be run down a place
+(30829) a person run down something
+
+
+Index 327 - Cluster 798 - TOPIC: a person take a class
+(X4095) a person be take a class
+(10533) a person take a class
+(19319) a person take a class at a place
+(42531) a person join a class
+(51396) a person enroll in a class
+
+
+Index 328 - Cluster 802 - TOPIC: a person do something in a hurry
+(13966) a person do something in a hurry
+(30988) a person to do something as fast as a person can
+(35864) a person do something in hurry
+
+
+Index 329 - Cluster 803 - TOPIC: a person do something fast
+(15874) a person do an activity fast
+(17819) a person do an activity quickly
+(28216) a person try to finish quickly
+(54444) a person do a lot in a short time
+
+
+Index 330 - Cluster 804 - TOPIC: a person buy food
+(X8567) a person bought food
+(14857) a person buy a food item
+(19918) a person buy food at the store
+(25708) a person be buy food
+(43846) a person buy the food
+(53570) a person buy something that be food
+(56120) a person buy something consume
+
+
+Index 331 - Cluster 809 - TOPIC: a person be at a place with another person
+(X4331) a person be at a place with another person
+(X9342) a person be at a place with a person
+(42238) a person show up at a place with a person
+
+
+Index 332 - Cluster 813 - TOPIC: a person remove another thing
+(13101) a person get rid of another thing
+(17757) a person get rid of something
+(20459) a person let out another thing
+(45452) a person remove another thing
+(15622) a person have something remove
+
+
+Index 333 - Cluster 814 - TOPIC: a person want to get rid of something
+(30202) a person want to get rid of something
+(34989) a person want to get rid of something and another thing
+(44644) a person want to rid out something full of another thing
+
+
+Index 334 - Cluster 815 - TOPIC: another person help a person
+(X5033) another person help a person with something
+(X6863) a person help another person with an activity
+(16656) another person be help a person with something
+(22894) a person be help another person with something
+(24925) another person help a person do an activity
+(25491) another person help a person do something
+(27665) a person help another person for something
+(28466) a person help another person with something
+(28885) a person help another person do an activity
+(35502) another person help a person to do an activity
+(37432) a person help another person do something
+(16906) another person help a person up
+(40040) another person help a person get on something
+(44985) another person help do something
+(34248) a person grab something to help another person up
+
+
+Index 335 - Cluster 816 - TOPIC: another person come to help a person
+(X9339) another person come to help a person with something
+(24977) another person come to help a person do something
+
+
+Index 336 - Cluster 820 - TOPIC: a person tell another person
+(X4321) a person tell another person so
+(X9312) another person tell a person another thing
+(21905) a person tell another person information
+(25764) a person tell another person another thing
+(27546) another person tell a person
+(33972) a person tell another person that something
+(40439) a person tell another person that
+(47441) another person tell another person
+
+
+Index 337 - Cluster 822 - TOPIC: a person do something that require something
+(X4344) a person do something require something
+(22110) a person do an activity that require something
+(34803) a person do an activity which require something
+
+
+Index 338 - Cluster 823 - TOPIC: a person need help on something
+(18384) a person need help to do something
+(21488) a person need help on something
+(31714) a person need help with something
+(X7266) a person be in need
+
+
+Index 339 - Cluster 828 - TOPIC: a person come to another person 's house
+(X4416) a person be come to a person house
+(X4962) a person come over to a person 's house
+(12121) a person be come over to another person 's house
+(12562) a person come over to another person 's house
+(16859) a person come to another person 's house
+(21891) a person be come to a person 's house
+(43559) a person come to a person 's house
+
+
+Index 340 - Cluster 831 - TOPIC: a person tell another person to do something
+(X4423) a person tell another person to something
+(X5374) a person tell a person to do something
+(X7794) another person tell a person to another thing
+(X8815) a person tell another person to another thing
+(12804) a person tell another person to do something
+(37123) a person tell a person to something
+(46166) another person tell a person to do something
+
+
+Index 341 - Cluster 833 - TOPIC: a person tell another person something
+(26146) a person tell another person something will happen
+(32508) a person tell another person that a person will do something
+(54008) a person tell another person what happen
+
+
+Index 342 - Cluster 834 - TOPIC: a person need something new
+(X4760) a person need a new something
+(19934) a person need something new
+(46386) a person be in need of something new
+
+
+Index 343 - Cluster 838 - TOPIC: a person do not have time for something
+(X4515) a person do not have enough time for an activity
+(45470) a person do not have time for something
+(57390) a person do not have time for an activity
+(28274) a person do not have much time to something
+
+
+Index 344 - Cluster 840 - TOPIC: another person get scared
+(41788) another person get scared
+(45024) a person get scare by another thing
+
+
+Index 345 - Cluster 844 - TOPIC: a person take a nap
+(X4784) a person take a nap
+(21816) a person be take a nap
+(25930) a person nap
+(37683) a person be nap
+(38984) a person nap on something
+(40352) a person be do something take a nap
+
+
+Index 346 - Cluster 847 - TOPIC: a person want a pet
+(12206) a person want a new a pet
+(12678) a person want a pet animal
+(19019) a person want an animal that be suitable as a pet
+(25978) a person want something as a pet
+(47676) a person want a pet companion
+(31554) a person want to have a pet
+(52432) a person want to get a pet
+
+
+Index 347 - Cluster 850 - TOPIC: a person read something
+(11452) another person be read something
+(34592) a person read another thing
+(41357) a person be read something on another thing
+
+
+Index 348 - Cluster 855 - TOPIC: a person and another person talk
+(X7102) a person and another person strike up a conversation
+(X8307) a person and another person chat
+(13494) a person and another person start do talk
+(14133) a person and another person talk to each other
+(14454) a person and another person discuss something
+(18965) a person and a person talk on something
+(23544) a person and another person wind up talk to each other
+(23400) a person and another person talk to a person and another person
+(12360) a person and another person talk thing out
+(15869) a person and another person talk about something in a place
+(19332) a person and another person start talk with each other
+(37743) a person and another person meet and talk
+(42781) at a place a person and another person talk
+(44183) a person and another person talk during something
+(50384) a person and another person talk at a place
+
+
+Index 349 - Cluster 857 - TOPIC: something wake a person
+(X4977) something wake a person up
+(X8447) something wake a person
+(20437) something wake up a person
+(29821) a person be awaken by something
+(31437) something wake a person in the morning
+
+
+Index 350 - Cluster 870 - TOPIC: a person visit another person
+(X7944) a person visit a person in a place
+(25124) a person visit a person
+(X5135) a person go to visit a person in a place
+(XXX85) a person visit another person
+(XX167) a person go to see another person
+(XX258) another person go to see a person
+(XX505) a person be come to visit another person
+(X1454) a person go to visit a person
+(X1818) another person at a place to see a person
+(X3393) a person see another person at a place
+(X3442) a person visit a person on occasion
+(X5145) a person go to visit another person
+(X6721) a person head to visit another person
+(X8047) another person visit a person
+(X8285) now another person visit a person
+(X8489) a person be visit another person in a place
+(10593) another person come to visit a person
+(14541) a person come to visit another person
+(14684) another person come by to visit
+(16283) another person be come to see a person
+(19064) another person go to see a person in a place
+(19735) a person friendly see another person
+(22352) another person be come to visit
+(24014) a person visit another person in a place
+(26183) a person be come to visit a person and another person
+(26944) a person come to see another person
+(28189) a person visit another person more
+(28721) a person be visit a person
+(29140) a person normally visit another person
+(29517) a person go to visit a person in another place
+(35065) a person come to visit a person
+(35484) another person be come for a visit
+(37651) a person be go to visit another person
+(39224) a person go to visit a person and another person
+(40444) another person go to visit a person
+(41435) a person be visit another person
+(42828) a person be arrive to visit a person
+(45864) a person be go to visit a person and another person
+(47444) another person come for a visit
+(50886) a person get to see another person
+(52414) another person be come to visit a person
+(55510) a person come by to visit a person
+(X8878) a person go to another person 
+(27063) another person be go to a person 
+(X8181) another person come to visit with a person
+(XXX85) a person visit another person
+(XX167) a person go to see another person
+(XX258) another person go to see a person
+(XX505) a person be come to visit another person
+(X1454) a person go to visit a person
+(X1818) another person at a place to see a person
+(X3393) a person see another person at a place
+(X3442) a person visit a person on occasion
+(X5145) a person go to visit another person
+(X6721) a person head to visit another person
+(X8047) another person visit a person
+(X8285) now another person visit a person
+(X8489) a person be visit another person in a place
+(10593) another person come to visit a person
+(14541) a person come to visit another person
+(14684) another person come by to visit
+(16283) another person be come to see a person
+(19064) another person go to see a person in a place
+(19735) a person friendly see another person
+(22352) another person be come to visit
+(24014) a person visit another person in a place
+(26183) a person be come to visit a person and another person
+(26944) a person come to see another person
+(28189) a person visit another person more
+(28721) a person be visit a person
+(29140) a person normally visit another person
+(29517) a person go to visit a person in another place
+(35065) a person come to visit a person
+(35484) another person be come for a visit
+(37651) a person be go to visit another person
+(39224) a person go to visit a person and another person
+(40444) another person go to visit a person
+(41435) a person be visit another person
+(42828) a person be arrive to visit a person
+(45864) a person be go to visit a person and another person
+(47444) another person come for a visit
+(50886) a person get to see another person
+(52414) another person be come to visit a person
+(55510) a person come by to visit a person
+(X8878) a person go to another person 
+(27063) another person be go to a person 
+(X8181) another person come to visit with a person
+
+
+Index 351 - Cluster 873 - TOPIC: a person want to visit something / someone
+(32078) a person want to visit something
+(55441) a person want to visit a person
+
+
+Index 352 - Cluster 876 - TOPIC: a person make something
+(X8697) a person make something and have another thing
+(51796) another person make another thing
+(X7130) a person make things_a
+(10846) a person be make something
+(21400) a person be make a something
+(24973) a person create something
+(28044) a person use something to make another thing
+(33988) a person to make something
+(41493) a person make a something
+(47924) a person be make another thing
+(43017) a person just make something
+(33664) a person make something that can be use for another person
+(55500) a person make something , another thing and another thing
+(19946) a person go to make something that a person use all of
+
+
+Index 353 - Cluster 878 - TOPIC: a person ask another person for help
+(X5221) a person ask another person for help
+(40553) a person ask another person to help
+(41679) a person ask a person to help do something
+(43229) a person ask another person help
+(30808) a person to ask for another person for help
+
+
+Index 354 - Cluster 882 - TOPIC: a person tell another person to stop do something
+(X8882) another person tell a person to stop do something
+(22421) a person tell another person to stop do something
+(42445) a person ask another person to stop do something
+(48505) another person ask a person to stop do something
+
+
+Index 355 - Cluster 885 - TOPIC: a person stop do another thing
+(21851) another person stop do something
+(26990) a person stop do another thing
+
+
+Index 356 - Cluster 887 - TOPIC: a person and another person eat at a place
+(28663) a person and another person eat at a type of table
+(43202) a person and another person eat at a place
+(45947) a person and another person eat a meal at a place
+
+
+Index 357 - Cluster 888 - TOPIC: a person and another person throw something to each other
+(13183) a person and another person throw to each other
+(44050) a person and another person throw something to each other
+
+
+Index 358 - Cluster 892 - TOPIC: a person see another person cry
+(X5406) another person see a person cry
+(16609) a person see another person something cry
+(19788) a person see another person cry
+(46076) a person see that another person be cry
+
+
+Index 359 - Cluster 893 - TOPIC: another person start to cry
+(X7496) another person start cry
+(23425) another person start to cry
+
+
+Index 360 - Cluster 895 - TOPIC: a person have an illness
+(X5507) a person be ill
+(37454) a person have illness
+(38905) a person have a medical condition
+(46647) a person have a health problem
+(13622) a person be diagnose with an illness
+
+
+Index 361 - Cluster 900 - TOPIC: another person open something
+(X8789) another person open something
+(36370) another person open another thing
+
+
+Index 362 - Cluster 902 - TOPIC: a person see something at a place
+(X5504) a person see a something on a place
+(15671) a person at a place see something
+(37561) a person be see something in a place
+(41137) a person see the sight in a place
+
+
+Index 363 - Cluster 907 - TOPIC: a person be eat
+(XXXX8) another person ate something
+(XX204) another person eat something
+(X2362) a person eat another thing
+(X3976) another person eat another thing
+(X6582) another person to eat something
+(17665) another person eat
+
+
+Index 364 - Cluster 908 - TOPIC: a person and another person be eat
+(X2277) a person and another person eat something together
+(11979) a person and another person eat the something
+(13732) a person and another person eat another thing
+(14961) a person and another person eat 
+(15308) a person and another person eat something
+(34411) a person be eat with another person
+(41943) a person and another person eat something anyway
+(57015) a person and another person eat something edible
+
+
+Index 365 - Cluster 912 - TOPIC: a person go in a place
+(11984) a person go in a place
+(21516) a person get in a place
+
+
+Index 366 - Cluster 915 - TOPIC: a person give something to another person
+(XXX33) a person give a gift to another person
+(XX423) another person get something for a person
+(X8745) a person give another person something tangible
+(12835) a person give another person another thing
+(17809) another person bring a person a present
+(19304) a person give something next to another person
+(20756) a person give another person a present
+(21649) another person give a person a gift
+(22613) a person present something for another person
+(23059) another person give a gift to a person
+(23971) a person present something to another person
+(25356) another person give a person gift
+(28460) a person to give another person something
+(34532) a person give the present to another person
+(37505) another person give a person another something
+(38453) a person give a present to another person
+(54331) another person give something next to a person
+(56102) another person give a person a present
+(56438) a person give a person another thing
+(57313) a person give another person something nice
+
+
+Index 367 - Cluster 919 - TOPIC: a person get a present for another person
+(21856) a person get a gift for another person
+(30035) another person get a gift for a person
+(40684) another person get a person a gift
+(57789) a person get another person a gift
+
+
+Index 368 - Cluster 922 - TOPIC: a person go home
+(X1808) a person go home
+(X1977) a person get home
+(X2575) a person come home
+(39915) a person go a place home
+
+
+Index 369 - Cluster 923 - TOPIC: a person forget something
+(XXX39) a person forget to do something
+(XXX69) a person forget about another thing
+(XXX88) a person forget something
+(XX668) a person forget to do a task
+(X4102) a person forget to set something
+(X4514) a person forget about an activity
+(X4606) a person forget another thing
+(18807) a person forget to do work
+(20610) a person forget how to do something
+(30875) a person forget about an object
+(38074) a person forget something there
+(38228) a person have forget something
+(38707) a person forget about do something
+(50684) a person forget part of something
+
+
+Index 370 - Cluster 926 - TOPIC: a person have a great time with another person
+(XXX51) a person and another person have a great time
+(XX583) a person and another person have a good time
+(X2786) a person have a great time with another person
+(13787) a person have something good time with another person
+(20998) a person and another person have a fun time
+(27700) a person have good time with another person
+(40398) a person have a great time with a person
+(45393) another person have a great time with a person
+(48567) a person and another person have a wonderful time
+(53274) a person and another person go and have a great time
+(57211) a person and another person have a great time together
+
+
+Index 371 - Cluster 933 - TOPIC: a person miss something
+(XXX58) a person miss something
+(XX581) a person miss another thing
+(X5877) a person miss out on an activity
+(21589) a person miss an activity
+(25329) a person miss something completely
+(32297) a person miss a lot of another thing
+(33336) a person miss activity_a
+(34104) a person miss out on something
+(34970) a person miss do something
+(46276) a person miss a place
+(49915) a person miss another thing entirely
+(50217) a person miss an opportunity
+(50338) a person be miss something
+
+
+Index 372 - Cluster 940 - TOPIC: a person leave a person
+(13498) a person leave a person at a place
+(54722) a person leave a person something at a place
+
+
+Index 373 - Cluster 944 - TOPIC: a person want to visit another person
+(XX359) a person want to visit another person
+(36655) a person want to visit a person
+
+
+Index 374 - Cluster 945 - TOPIC: a person visit a place with another person
+(X8556) a person be visit another place with another person
+(15177) a person and another person visit a place
+(19768) a person visit a place with a person
+(40739) a person and another person visit a place often
+(45445) another person be visit a place with a person
+(46457) another person go to a place with a person
+(51656) a person visit a place with another person
+
+
+Index 375 - Cluster 949 - TOPIC: person seek help from another person
+(XXX95) a person go to another person and seek help
+(X7226) a person want another person to help
+(16886) a person ask for help from another person
+(25374) a person go to another person for help
+(27749) a person ask another person to help with something
+(48645) a person go to another person to ask for help
+(56794) another person look for help
+
+
+Index 376 - Cluster 950 - TOPIC: a person help out another person
+(X1461) a person help out another person
+(13172) another person come to help
+(15043) another person help out a person
+(17422) another person volunteer to help a person
+(21062) another person come over to help a person
+(23642) another person help a person out
+(23984) another person go to help a person
+(30769) another person come to help a person
+(32237) a person volunteer to help another person
+(36214) a person get out to help another person
+(43998) a person do something that help another person
+(45507) a person help another person out
+(48225) another person kind go to help a person
+(56180) another person come over to help
+(50764) a person help another person get to another place
+
+
+Index 377 - Cluster 951 - TOPIC: a person stop to help
+(X1980) a person stop to help another person
+(X8147) another person stop to help a person
+
+
+Index 378 - Cluster 952 - TOPIC: a person offer to help
+(X5210) another person offer to help a person up
+(15726) a person offer to help another person do something
+(21698) a person offer to help another person
+(48802) another person offer to help a person
+(49419) a person offer to help to another person
+
+
+Index 379 - Cluster 955 - TOPIC: a person want to help
+(22946) a person want to help another person
+(26436) another person want to help a person
+(39732) another person want to help
+
+
+Index 380 - Cluster 957 - TOPIC: a person ask another person a question
+(XX109) a person ask another person a question
+(XX807) a person ask out another person
+(10762) a person ask another person question
+(11988) another person ask another person
+(15971) a person ask a question to another person
+(31675) another person ask a person a question
+(42885) another person question a person
+
+
+Index 381 - Cluster 960 - TOPIC: a person leave a place
+(X5081) a person be go away a place
+(X6994) a person move out of a place
+(14337) a person exit a place
+(19741) a person depart
+(31106) a person move out from a place
+(32860) a person go away from a place
+(36814) a person have move out of a place
+(38621) a person take something and leave
+(49970) a person quit a place
+(33976) a person get to a place where something be locate as something be leave
+
+
+Index 382 - Cluster 961 - TOPIC: a person leave something somewhere
+(X8737) a person leave something everywhere
+(X9336) a person leave something outside
+(33006) a person leave something in
+(55945) a person leave all over the place
+(48458) a person leave something all over a place
+
+
+Index 383 - Cluster 964 - TOPIC: a person have to go somewhere
+(X2152) a person have somewhere to go
+(X2262) a person be suppose to go to a place
+(X5311) a person have to go a place
+(28650) a person need to go somewhere
+
+
+Index 384 - Cluster 965 - TOPIC: a person come to a place
+(X3054) a person come a place
+(X7492) a person come over to a place
+(20229) a person come into a place
+(54342) a person come in a place
+
+
+Index 385 - Cluster 967 - TOPIC: a person get in something
+(X4079) a person get into something
+(X8495) a person get in something
+
+
+Index 386 - Cluster 969 - TOPIC: a person be ready to go to a place
+(17024) a person be about to go to a place
+(46855) a person be ready to go to a place
+(51013) a person get ready to go a place
+
+
+Index 387 - Cluster 973 - TOPIC: a person ride
+(XX128) a person ride
+(X6184) a person ride something
+(X7488) a person be ride something
+(X8473) a person ride a ride
+(X8598) a person be ride a vehicle
+(X9558) a person ride a means of transportation
+(22710) a person ride a vehicle
+(22888) a person be ride on something
+(24553) a person ride a transportation device
+(30349) a person be ride a means of transportation
+(33687) a person ride ride
+(37374) a person ride on something
+(37610) a person ride on a ride
+(41511) a person rides a ride
+(49772) a person be ride a place
+(50093) a person ride in something
+(52597) a person ride transportation
+(52941) a person rides rides
+
+
+Index 388 - Cluster 978 - TOPIC: a person ask a person for something
+(XX131) a person ask another person for something
+(X2549) another person ask a person for something
+(X3768) a person ask another person for another thing
+(X6917) another person ask for something
+(20019) a person ask for something from another person
+(39548) a person ask for another thing
+(10102) another person ask a person something
+
+
+Index 389 - Cluster 979 - TOPIC: a person ask a person about something
+(13564) a person ask another person about something
+(14341) a person ask another person on something
+(18742) a person ask something next to another person
+(19610) a person ask another person about something
+(21906) another person ask a person about information
+(26777) a person ask a person about another person
+(29761) a person ask a person about something
+(35970) a person ask something to another person
+(36848) a person ask another person about another thing
+(40512) another person ask what something be
+(41786) another person ask another person something
+(44719) another person ask a person another thing
+(49627) another person question a person about something
+(16498) another person ask a person to something
+(29728) a person ask another person to something
+(40632) a person ask another person to another thing
+
+
+Index 390 - Cluster 980 - TOPIC: a person build something
+(XX134) a person build another thing
+(11690) a person build something
+(45416) another person build something
+(46756) a person be build something that be another thing
+
+
+Index 391 - Cluster 984 - TOPIC: a person like another person
+(XX135) a person like another person
+(X7936) another person like a person
+(16325) a person really like another person
+(55706) a person likes another person
+
+
+Index 392 - Cluster 986 - TOPIC: a person date another person
+(X1206) a person be date another person
+(X3962) a person take another person on a date
+(X4816) a person and another person date
+(X7640) a person and another person go on a date that
+(X9892) a person and another person be now date
+(12431) a person and another person be on a date
+(14011) a person be on a date with another person
+(15016) a person and another person be do date
+(15380) a person go on a date with another person
+(26471) a person and another person go out among a date
+(28246) a person be go on a date with another person
+(41314) a person and another person single make a date
+(41341) a person be on a a date with another person
+(46131) a person and another person be dating
+(53408) another person go on a date with a person
+(54390) a person be on a date that with another person
+(56723) a person go out on a date with another person
+
+
+Index 393 - Cluster 987 - TOPIC: a person agree to go on a date with another person
+(13853) another person accept to go on a date with a person
+(31014) another person agree to go on a date with a person
+(38492) a person and another person agree to go on a date
+
+
+Index 394 - Cluster 989 - TOPIC: a person feel cold
+(XX147) a person feel cold
+(11591) a person feel a cold
+(26130) a person feel something cold
+
+
+Index 395 - Cluster 991 - TOPIC: a person get cold
+(X4084) a person get a cold
+(10508) a person get cold
+(X4716) a person be cold
+(X5527) a person be come down with a cold
+(19052) a person become cold
+(30702) a person be very cold
+(36670) a person be really cold
+(X4716) a person be cold
+(X5527) a person be come down with a cold
+(19052) a person become cold
+(30702) a person be very cold
+(36670) a person be really cold
+
+
+Index 396 - Cluster 998 - TOPIC: a person see another person do something
+(X2314) another person see that a person do something
+(X6743) a person see a person do something
+(10159) a person see another person do an activity
+(18673) a person see another person do something
+(21743) a person see that another person have something
+(22212) another person see that a person get something
+(23739) another person see a person do something
+(33394) another person near see a person do something
+(37984) another person see a person 's action
+(38391) a person watch another person do something
+(41601) a person see what another person be do
+(52974) a person see another person use something
+(56356) another person see a person do an activity
+(41012) another person go to see a person in something do another thing
+
+
+Index 397 - Cluster 999 - TOPIC: a person need money
+(X1220) a person need money
+(16877) a person need cash
+(34700) a person need to get money
+
+
+Index 398 - Cluster 1002 - TOPIC: a person fall
+(XX183) a person fall
+(XX568) a person fall to the ground
+(XX629) a person fall on the floor
+(X2268) a person fall down
+(17439) a person fall right to the floor
+(19306) a person fall to the floor
+(19812) a person fall to the bottom
+(28201) a person be drop to the ground
+(29952) a person fall on the ground
+(30475) a person fall through a place
+(52461) a person fell
+
+
+Index 399 - Cluster 1003 - TOPIC: a person slip and fall
+(11313) a person slip and fall down
+(12424) a person slip and fall
+(36235) a person slip and fall to the ground
+(45252) a person slip and fall down to the floor
+
+
+Index 400 - Cluster 1004 - TOPIC: something that belong to a person break
+(XX198) part of another thing that belong to a person break
+(X1313) something that belong to a person break
+(X5705) something that belong to a person be broken
+(X9644) something that belong to a person be break
+(34277) something belong to a person break
+(55074) something that belong to a person get break
+
+
+Index 401 - Cluster 1006 - TOPIC: a person pull over
+(X2965) a person pull over
+(12924) a person be pull over
+(17913) a person pull over something
+(27654) a person pull on something
+(46064) a person pull over by a place
+
+
+Index 402 - Cluster 1008 - TOPIC: a person feel pain
+(XX238) a person to feel pain
+(X5953) a person be in pain
+(X6053) a person suffer from another thing painful
+(X6500) a person experience pain in a body part
+(16740) a person have pain
+(20996) a person have a pain in a body part
+(26575) a person feel pain
+(29806) a person have a pain
+(37560) a person feel pain in something
+(57439) a person 's body be in pain
+
+
+Index 403 - Cluster 1014 - TOPIC: a person do not want to go to a place
+(X9148) a person do not want to go to a place
+(24510) a person do not want to go to another place
+(57058) a person do not want to go out
+
+
+Index 404 - Cluster 1017 - TOPIC: a person 's birthday be come up
+(XX250) a person 's birthday be come up
+(X3855) a person 's birthday be here
+(X5678) a person 's birthday come up
+(18447) a person 's birthday approach
+(20898) a person have a birthday come up
+(23687) the birthday of a person be come up
+(30512) another person 's birthday be come up
+(14817) a person have a birthday soon
+
+
+Index 405 - Cluster 1018 - TOPIC: a person have a birthday
+(X2541) a person be have a birthday
+(X7890) a person 's birthday arrive
+(12569) a person young have a birthday
+
+
+Index 406 - Cluster 1021 - TOPIC: a person go to a fun place
+(XX261) a person go to a fun place
+(X2060) a person go to a place fun
+(12529) a person go to a fun attraction
+(12894) a person go an activity at a place
+(17502) a person go a place entertaining
+(19873) a person go a place that be fun
+(25132) a person go to a place for amusement
+(25215) a person go to a fun destination
+(28281) a person go a fun place
+(33568) a person go to do a fun activity
+(40031) a person go a place fun
+(43591) a person go to a place entertain
+(49496) a person go a place entertain
+(55308) a person go something fun
+
+
+Index 407 - Cluster 1022 - TOPIC: a person take a person to a fun place
+(X4599) a person take a person to a fun place
+(44704) a person take a person to a place fun
+
+
+Index 408 - Cluster 1023 - TOPIC: a person have fun in a place
+(X5983) a person have a fun time at a place
+(19321) a person to have fun at a place
+(28845) a person enjoy an activity at a place
+(32124) a person enjoy a trip to a place
+(49090) a person have fun in a place
+(49165) a person have something fun at a place
+(52301) a person have a fun trip to a place
+(55319) a person have so much fun at a place
+
+
+Index 409 - Cluster 1026 - TOPIC: a person start to cook
+(XX263) a person begin by cooking something
+(13927) a person begin to cook something
+(14919) a person start to cook
+(42804) a person begin cook
+
+
+Index 410 - Cluster 1027 - TOPIC: a person be cook
+(X1972) a person be a cook
+(17444) a person cook with something
+(23853) a person be cooking
+(55369) a person be cooking something
+
+
+Index 411 - Cluster 1028 - TOPIC: a person decide to cook
+(X2072) a person decide to cook with something
+(X9714) a person decide to cook
+(23072) a person decide to cook something
+(40701) a person decide to cook food
+
+
+Index 412 - Cluster 1031 - TOPIC: a person try to cook
+(20840) a person try cooking something
+(44582) a person try to cook something
+
+
+Index 413 - Cluster 1032 - TOPIC: a person have to cook
+(24639) a person have to cook
+(46930) a person need to cook something
+(55347) a person have to cook for something
+
+
+Index 414 - Cluster 1033 - TOPIC: a person get chase
+(XX265) a person get chase
+(X1368) a person be be chase
+(X3584) a person get chase by a person
+
+
+Index 415 - Cluster 1035 - TOPIC: something chase a person
+(12553) something chase a person
+(50959) something be chase a person
+
+
+Index 416 - Cluster 1037 - TOPIC: a person go with another person
+(XX280) another person go with a person
+(X4611) a person go a place with another person
+(10788) a person go out with another person
+(17603) a person go with another person
+(24000) another person be with a person
+(27241) another person go something to a person
+(30227) a person go to a place with another person
+(30917) a person go somewhere with another person
+(42313) a person go into a place with a person
+(47034) a person go to another person place
+(56296) a person go somewhere with another person
+
+
+Index 417 - Cluster 1039 - TOPIC: a person jump
+(XX289) a person jump over something
+(X2267) a person be jump on something
+(X2533) a person jump off of something
+(X7412) a person jump off something
+(10298) a person jump on something
+(12456) a person jump away from something
+(14607) a person jump off of another thing
+(16983) a person jump
+(22114) a person jump over each something
+(23245) a person jump into a place
+(24018) a person jump around
+(28535) a person jump into something
+(28784) a person jump up
+(30893) a person jump off a place
+(31564) a person jump in
+(35391) a person jump onto a place
+(39309) a person be jump something
+(40262) a person jump with something
+(46917) a person be jump
+(47259) a person jump off another thing
+(49521) a person jump in something
+
+
+Index 418 - Cluster 1047 - TOPIC: a person decide to do something
+(XX574) a person decide to take about something
+(10385) a person decide to take action
+(12002) a person decide next to do the right thing
+(14194) a person decide to make another thing
+(19866) a person decide to do something anyway
+(24253) a person decide to something again
+(31174) a person decide to do another thing to something
+(37592) a person decide to have something do
+(42897) a person decide to do another thing something
+(44600) a person decide to do an action
+
+
+Index 419 - Cluster 1048 - TOPIC: a person decide to try something
+(11702) a person decide to try another thing
+(15777) a person decide to try do something
+(23103) a person decide to try in another thing
+
+
+Index 420 - Cluster 1051 - TOPIC: a person and another person ride something
+(X9701) a person who have another thing ride in a vehicle with another person
+(33877) a person and another person ride on something together
+(53419) a person and another person ride something
+
+
+Index 421 - Cluster 1054 - TOPIC: a person buy something new
+(X2966) a person buy many of something new
+(X9855) a person buy a new something
+(16247) a person buy something for another thing
+(22166) a person buy a brand new something
+(23276) a person buy something and another thing refreshment
+(27532) a person buy a new one
+(32796) a person buy a new brand of something
+(39686) a person buy another thing 's replacement
+(43911) a person buy different another thing
+(50095) a person to buy a new something
+(55131) a person buy something new
+(56109) a person buy another thing new
+
+
+Index 422 - Cluster 1061 - TOPIC: a person love another person
+(X5666) a person love another person
+(17413) a person love another person very much
+(28361) a person love something characteristic of another person
+(37391) another person love something from a person
+
+
+Index 423 - Cluster 1063 - TOPIC: a person drive to another person 's house
+(XX360) a person drive to another person 's house
+(17055) a person drive to a place where another person live at
+(22773) a person drive to another person 's destination
+(23441) another person drive to a person 's location
+(35331) a person drive to another person 's location
+(40457) a person be drive a person 's home
+(46517) a person drive to another person 's home
+(48457) another person drive to a person 's home
+(56731) a person be drive to another person 's house
+
+
+Index 424 - Cluster 1065 - TOPIC: a person pick up another person
+(X3507) a person pick up another person
+(X8660) another person pick up a person
+(14425) another person come up to a person
+(23357) another person pick a person up
+(32416) a person be pick another person up
+(38493) a person pick another person up
+(43091) another person come to pick up a person
+
+
+Index 425 - Cluster 1067 - TOPIC: a person and another person pick up another person
+(12874) a person and another person go to pick up another person
+(22353) a person and another person go to pick another person up
+
+
+Index 426 - Cluster 1070 - TOPIC: a person read
+(XX379) a person read about something
+(X2409) a person read
+(X2740) a person read something
+(X3531) a person be read a book
+(46540) a person read another thing during something
+(52901) a person be read
+(54447) a person be off to read
+
+
+Index 427 - Cluster 1072 - TOPIC: a person learn about something
+(XX380) a person learn about something
+(10666) a person have learn something
+(11249) a person have information about something
+(27649) a person be learn about something
+(34760) a person find out about something
+
+
+Index 428 - Cluster 1073 - TOPIC: a person know about something
+(X2680) a person know another thing about something
+(X5453) a person know something
+(10226) a person know
+(18823) a person know another thing
+(26103) a person know all about something
+(56230) a person be know for something
+
+
+Index 429 - Cluster 1075 - TOPIC: a person notice something
+(X5349) a person notice another thing be in something
+(17901) a person notice another thing with something
+(20072) a person notice another thing at a place
+(22543) a person notice something on top of another thing in a place
+(26542) a person notice another thing about something
+(29785) another person notice another thing
+(38907) a person notice things
+(41358) another person notice something
+(43684) a person notice something be another thing
+(53457) a person notice another thing
+(48465) a person notice something about another person
+
+
+Index 430 - Cluster 1076 - TOPIC: a person sit near to another person
+(10767) a person sit next to another person
+(13397) a person sit next to another person on a place
+(14060) a person sit together
+(25967) a person sit next to another person at a place
+(27482) a person sit down beside another person
+(30114) a person sit beside another person
+(31246) a person sit by a person
+(37355) a person sit with another person
+(47819) a person sit with a person
+(57586) a person sit near a person
+
+
+Index 431 - Cluster 1077 - TOPIC: a person finish something
+(XX445) a person finish work
+(X1615) a person finish do something
+(X1844) a person finish something
+(11326) a person to finish something
+(13294) a person finish an activity
+(16546) a person finish do another thing
+(20763) a person have finish something
+(43970) a person finish make something
+(47238) a person finish a task
+(49227) a person be finish with something
+
+
+Index 432 - Cluster 1078 - TOPIC: a person leave work
+(XX446) a person leave work
+(X4031) a person take off work
+(X5321) a person leave work for good
+(18559) a person get out of work
+(32226) a person be out of work for something
+
+
+Index 433 - Cluster 1079 - TOPIC: a person have to leave for work
+(X5793) a person have to leave for work
+(32697) a person need to leave for work now
+
+
+Index 434 - Cluster 1082 - TOPIC: a person tell a person to stop
+(XX456) another person tell a person to stop
+(X3738) a person tell another person to stop
+
+
+Index 435 - Cluster 1083 - TOPIC: a person want to stop a person
+(X2888) another person want a person to stop
+(29774) a person want to stop a person
+
+
+Index 436 - Cluster 1084 - TOPIC: a person stop another person
+(X6459) another person stop a person
+(38288) a person stop another person
+(41359) another person make a person stop
+(47432) a person go to stop a person
+(X2865) a person be stop by another person
+
+
+Index 437 - Cluster 1091 - TOPIC: a person see an animal
+(12261) a person see something animal
+(20750) a person see animal
+(33496) a person see an animal do another thing
+(35103) a person be look at a wild animal
+(37781) a person watch an animal
+(39889) a person see a type of animal
+(42664) a person spot an animal
+(43515) a person look at animal
+(28542) a person see part of an animal
+
+
+Index 438 - Cluster 1092 - TOPIC: a person decorate something
+(20723) a person decorate another thing
+(22451) a person put a decoration on another thing
+(24399) a person decorate something
+(42502) a person put decoration on something
+(23876) a person put up a decoration
+(53932) a person display a decoration
+
+
+Index 439 - Cluster 1095 - TOPIC: a person and another person meet up at a place
+(13050) a person meet a person and another person at a place
+(33386) a person meet up with another person and another person
+(39320) a person and another person meet up at a place
+
+
+Index 440 - Cluster 1101 - TOPIC: a person compete with / against another person
+(16166) a person compete against another person
+(26535) a person and another person play against each other
+(31837) a person compete again another person
+(50176) a person and another person compete against each other
+(34165) a person and another person compete in something
+(33770) a person and another person keep do a competition
+(53683) a person and another person play a competition
+(55077) a person and another person have a competition
+(50145) a person and another person participate in a competition
+
+
+Index 441 - Cluster 1102 - TOPIC: a person visit one or more people
+(14389) another person visit a person and another person
+(30319) a person visit a person and another person
+
+
+Index 442 - Cluster 1108 - TOPIC: the cop pull a person over
+(15223) a police officer pull a person over
+(28786) the police pull over a person
+(35748) the cop pull over a person
+(35793) a police officer pull over a person
+(44755) a cop pull over a person
+(48943) a cop pull another person over
+(56390) a cop pull a person over
+(57507) cop pull a person over
+(18539) a person be pull over by a cop
+(29730) a person be pull over by the police
+(29781) a person be pull over by law enforcement
+(35852) a person get pull over by cop
+(45897) a person get pull over by a cop
+(57161) a person be pull over by an officer
+
+
+Index 443 - Cluster 1111 - TOPIC: a person like / love to play sport
+(28370) a person love play a sport
+(28729) a person like to play a sport
+(36286) a person love to play a sport
+(39949) a person love to play sport
+
+
+Index 444 - Cluster 1114 - TOPIC: a person have not see a person in a while
+(16670) a person have not see another person for a long time
+(25503) a person have not see another person in a long time
+(26935) a person and another person have not see each other in a long time
+(44171) a person and another person have not see each other in a long while
+(44216) another person have not see a person in a long time
+(56548) a person have not see a person in awhile
+(23806) another person do not see a person for a long time
+(54923) a person do not see another person for a long time
+(26518) a person have not see a person in a while
+(37615) a person have not see friend for a while
+
+
