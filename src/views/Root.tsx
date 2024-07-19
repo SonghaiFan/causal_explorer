@@ -68,7 +68,6 @@ const Root: FC = () => {
           labelGridCellSize: 60,
           labelRenderedSizeThreshold: 15,
           labelFont: "Lato, sans-serif",
-          zIndex: true,
         }}
         className="react-sigma"
       >
