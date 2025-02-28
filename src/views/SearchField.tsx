@@ -1,10 +1,4 @@
-import React, {
-  KeyboardEvent,
-  ChangeEvent,
-  FC,
-  useEffect,
-  useState,
-} from "react";
+import React, { ChangeEvent, FC, useEffect, useState } from "react";
 import { useSigma } from "react-sigma-v2";
 import { Attributes } from "graphology-types";
 import { BsSearch } from "react-icons/bs";
