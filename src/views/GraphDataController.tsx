@@ -38,8 +38,8 @@ const GraphDataController: FC<{ dataset: Dataset; filters: FiltersState }> = ({
       .map((node) => graph.getNodeAttribute(node, "score"));
     const minDegree = Math.min(...scores);
     const maxDegree = Math.max(...scores);
-    const MIN_NODE_SIZE = 5;
-    const MAX_NODE_SIZE = 15;
+    const MIN_NODE_SIZE = 3;
+    const MAX_NODE_SIZE = 10;
     graph.forEachNode((node) =>
       graph.setNodeAttribute(
         node,

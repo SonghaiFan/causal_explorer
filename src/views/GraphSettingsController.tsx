@@ -74,7 +74,7 @@ const GraphSettingsController: FC<{ hoveredNode: string | null }> = ({
         ? (edge, data) => {
             // Check if edge has hovered node as extremity
             if (graph.hasExtremity(edge, debouncedHoveredNode)) {
-              return { ...data, color: hoveredColor, size: 4 };
+              return { ...data, color: hoveredColor, size: 2 };
             }
 
             // Check if edge has any neighbor node as extremity
