@@ -2,7 +2,19 @@ import csv
 import json
 import re
 import random
+import math
+import os
+import sys
 
+print(f"Python version: {sys.version}")
+print(f"Python executable: {sys.executable}")
+print(f"Python path: {sys.path}")
+
+try:
+    import networkx
+    print(f"NetworkX is available (version {networkx.__version__})")
+except ImportError as e:
+    print(f"NetworkX import failed: {e}")
 
 def parse_cluster(file_path):
     """Parse the clusters file to extract cluster information."""
@@ -78,11 +90,6 @@ def parse_graph(file_path):
                     if edge_key not in edge_set:
                         links.append({'source': id_b, 'target': id_a})
                         edge_set.add(edge_key)
-                elif relation == 'B':  # Bidirectional - add only one direction for visualization
-                    edge_key = f"{id_a}->{id_b}"
-                    if edge_key not in edge_set:
-                        links.append({'source': id_a, 'target': id_b})
-                        edge_set.add(edge_key)
 
     return links, connected_nodes
 
@@ -140,6 +147,9 @@ def create_json(cluster_path, graph_path, output_path):
         print(f"Warning: {len(missing_keys)} nodes are not connected to any edge")
         print(f"First 10 disconnected nodes: {list(missing_keys)[:10]}")
     
+    # Create directory if it doesn't exist
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
     
@@ -150,7 +160,12 @@ def create_json(cluster_path, graph_path, output_path):
 def calculate_score(nodes, edges):
     """Calculate centrality scores for nodes."""
     try:
-        import networkx as nx
+        # Try to use the already imported networkx
+        try:
+            import networkx as nx
+        except ImportError:
+            print("NetworkX import failed in calculate_score")
+            raise
         
         G = nx.Graph()
         for node in nodes:
@@ -165,10 +180,11 @@ def calculate_score(nodes, edges):
                 node['score'] = centrality[node['key']]
             else:
                 node['score'] = 0
-    except ImportError:
-        print("NetworkX not available. Assigning random scores.")
+    except Exception as e:
+        print(f"Error in calculate_score: {e}")
+        print("NetworkX not available or encountered an error. Assigning random scores.")
         for node in nodes:
-            node['score'] = random.random()
+            node['score'] = random.random() * 0.5 + 0.1  # Generate scores between 0.1 and 0.6
             
     return nodes
 
@@ -176,28 +192,129 @@ def calculate_score(nodes, edges):
 def calculate_layout(nodes, edges):
     """Calculate layout positions for nodes."""
     try:
-        import networkx as nx
+        # Try different import approaches
+        try:
+            import networkx as nx
+            print("Successfully imported NetworkX version:", nx.__version__)
+            
+            # Check for scipy which is required for spring_layout
+            try:
+                import scipy
+                print("Successfully imported SciPy version:", scipy.__version__)
+            except ImportError:
+                print("SciPy is missing, which is required for NetworkX spring_layout")
+                print("Installing SciPy...")
+                import subprocess
+                subprocess.check_call([sys.executable, "-m", "pip", "install", "scipy"])
+                import scipy
+                print("Successfully installed and imported SciPy version:", scipy.__version__)
+                
+        except ImportError as e:
+            print(f"NetworkX import failed: {e}")
+            print("\nNote: For better visualization, install NetworkX with: pip install networkx")
+            raise
         
+        # Create graph and add nodes/edges
         G = nx.Graph()
         for node in nodes:
             G.add_node(node['key'])
 
         for edge in edges:
             G.add_edge(*edge)
+            
+        # Calculate node degrees (number of connections)
+        degrees = dict(nx.degree(G))
+        
+        print("Calculating improved layout...")
+        
+        # First, calculate a basic spring layout
+        pos = nx.spring_layout(G, k=0.3, iterations=100, seed=42)
+        
+        # Then adjust positions based on node degree
+        # Nodes with fewer connections should be pushed outward
+        max_degree = max(degrees.values()) if degrees else 1
+        center_x, center_y = 0.5, 0.5
+        
+        for node_id, position in pos.items():
+            degree = degrees.get(node_id, 0)
+            # Calculate a factor that pushes low-degree nodes outward
+            # Nodes with higher degree stay closer to center
+            factor = 1.0 - (degree / max_degree) * 0.7
+            
+            # Get vector from center to current position
+            dx = position[0] - center_x
+            dy = position[1] - center_y
+            
+            # Calculate distance from center
+            distance = math.sqrt(dx*dx + dy*dy)
+            
+            if distance > 0:
+                # Normalize the vector
+                dx /= distance
+                dy /= distance
+                
+                # Apply the factor to push outward
+                new_distance = distance * (1 + factor)
+                pos[node_id][0] = center_x + dx * new_distance
+                pos[node_id][1] = center_y + dy * new_distance
+        
+        print("Improved layout calculation complete")
 
-        pos = nx.spring_layout(G, k=0.15, iterations=50, seed=42)
+        # Apply positions to nodes
         for node in nodes:
             if node['key'] in pos:
                 node['x'], node['y'] = pos[node['key']]
             else:
-                # Assign random position if node is not in the layout
-                node['x'], node['y'] = random.random(), random.random()
-    except ImportError:
-        print("NetworkX not available. Assigning random positions.")
-        for node in nodes:
-            node['x'], node['y'] = random.random(), random.random()
+                # Fallback for any nodes not in the layout
+                angle = random.random() * 2 * math.pi
+                radius = 0.8 + random.random() * 0.2
+                node['x'] = 0.5 + radius * math.cos(angle)
+                node['y'] = 0.5 + radius * math.sin(angle)
+
+        return nodes
+    except Exception as e:
+        print(f"Error in calculate_layout: {e}")
+        print("Using improved circular layout as fallback")
+        
+        # Create a more sophisticated circular layout
+        # Group nodes by their connectivity
+        node_keys = [node['key'] for node in nodes]
+        edge_dict = {}
+        for node_key in node_keys:
+            edge_dict[node_key] = 0
             
-    return nodes
+        for edge in edges:
+            source, target = edge
+            edge_dict[source] = edge_dict.get(source, 0) + 1
+            edge_dict[target] = edge_dict.get(target, 0) + 1
+        
+        # Sort nodes by connectivity (nodes with more connections go to the center)
+        sorted_nodes = sorted(nodes, key=lambda n: edge_dict.get(n['key'], 0), reverse=True)
+        
+        # Assign positions in concentric circles
+        # More connected nodes in inner circles, less connected in outer circles
+        total_nodes = len(sorted_nodes)
+        circles = 5  # Number of concentric circles
+        
+        for i, node in enumerate(sorted_nodes):
+            # Determine which circle this node belongs to
+            circle_idx = min(int(i * circles / total_nodes), circles - 1)
+            
+            # Calculate radius based on which circle
+            radius = 0.2 + (circle_idx * 0.15)
+            
+            # Calculate position within the circle
+            nodes_in_circle = max(1, total_nodes // circles)
+            angle = 2 * math.pi * (i % nodes_in_circle) / nodes_in_circle
+            
+            # Add some randomness to prevent perfect circles
+            radius += random.random() * 0.05
+            angle += random.random() * 0.1
+            
+            node['x'] = 0.5 + radius * math.cos(angle)
+            node['y'] = 0.5 + radius * math.sin(angle)
+            
+        return sorted_nodes
 
 
 def json_to_dataset(json_data, default_cluster_color='#6c3e81', default_tag_image='unknown.svg'):
@@ -258,9 +375,7 @@ def json_to_dataset(json_data, default_cluster_color='#6c3e81', default_tag_imag
         target = str(link['target'])
         # check if the source and target nodes exist
         if source in clusters and target in clusters:
-            # 50% of the time, the edge is not added (for visualization clarity)
-            if random.random() > 0.5:
-                dataset['edges'].append([source, target])
+            dataset['edges'].append([source, target])
         else:
             print(f"Edge between {source} and {target} is not added because one of the nodes does not exist.")
 
@@ -287,17 +402,80 @@ def json_to_dataset(json_data, default_cluster_color='#6c3e81', default_tag_imag
     return dataset
 
 
+def find_files(base_paths, file_names):
+    """Find files by trying different base paths."""
+    for base_path in base_paths:
+        for file_name in file_names:
+            full_path = os.path.join(base_path, file_name)
+            if os.path.exists(full_path):
+                return full_path
+    return None
+
+
 if __name__ == "__main__":
+    # Try different base paths to find the files
+    base_paths = [
+        "",  # Current directory
+        ".",
+        "..",
+        "data_back",
+        os.path.join("..", "data_back"),
+    ]
+    
+    # Find cluster file
+    cluster_file = find_files(
+        base_paths, 
+        ["cluster/clusters_final.txt", "clusters_final.txt", "data_back/cluster/clusters_final.txt"]
+    )
+    
+    # Find graph file
+    graph_file = find_files(
+        base_paths, 
+        ["graph/graph_final.csv", "graph_final.csv", "data_back/graph/graph_final.csv"]
+    )
+    
+    # Find or create output paths
+    output_json_path = find_files(
+        base_paths, 
+        ["data/data_final_backup.json", "data_final_backup.json", "data_back/data/data_final_backup.json"]
+    )
+    if not output_json_path:
+        output_json_path = "data_final_1.json"
+    
+    output_dataset_path = find_files(
+        base_paths, 
+        ["public/dataset.json", "../public/dataset.json"]
+    )
+    if not output_dataset_path:
+        output_dataset_path = "dataset.json"
+    
+    if not cluster_file:
+        print("Error: Could not find clusters_final.txt file.")
+        print("Please run this script from the project root directory or provide the full path.")
+        exit(1)
+        
+    if not graph_file:
+        print("Error: Could not find graph_final.csv file.")
+        print("Please run this script from the project root directory or provide the full path.")
+        exit(1)
+    
+    print(f"Using cluster file: {cluster_file}")
+    print(f"Using graph file: {graph_file}")
+    print(f"Output JSON will be saved to: {output_json_path}")
+    print(f"Output dataset will be saved to: {output_dataset_path}")
+    
     # Create the JSON data
-    json_data = create_json("data_back/cluster/clusters_final.txt", 
-                           "data_back/graph/graph_final.csv", 
-                           "data_back/data/data_final_1.json")
+    json_data = create_json(cluster_file, graph_file, output_json_path)
     
     # Convert to dataset format
     dataset = json_to_dataset(json_data)
     
+    # Create directory if it doesn't exist
+    os.makedirs(os.path.dirname(output_dataset_path), exist_ok=True)
+    
     # Save the dataset
-    with open("public/dataset.json", 'w', encoding='utf-8') as f:
+    with open(output_dataset_path, 'w', encoding='utf-8') as f:
         json.dump(dataset, f, indent=2, ensure_ascii=False)
     
     print(f"Successfully created dataset with {len(dataset['nodes'])} nodes and {len(dataset['edges'])} edges")
+    

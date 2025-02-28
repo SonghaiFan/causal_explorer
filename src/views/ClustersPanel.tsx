@@ -49,8 +49,23 @@ const ClustersPanel: FC<{
     [clusters, nodesPerCluster]
   );
 
-  const [sliderValueLower, setSliderValueLower] = useState(0);
-  const [sliderValueUpper, setSliderValueUpper] = useState(1200);
+  // Calculate min and max cluster values dynamically
+  const clusterValues = useMemo(() => {
+    const clusterKeys = clusters.map((cluster) => Number(cluster.key));
+    return {
+      min: Math.min(...clusterKeys),
+      max: Math.max(...clusterKeys),
+    };
+  }, [clusters]);
+
+  const [sliderValueLower, setSliderValueLower] = useState(clusterValues.min);
+  const [sliderValueUpper, setSliderValueUpper] = useState(clusterValues.max);
+
+  // Initialize slider values when clusters are loaded
+  useEffect(() => {
+    setSliderValueLower(clusterValues.min);
+    setSliderValueUpper(clusterValues.max);
+  }, [clusterValues]);
 
   useEffect(() => {
     // Make a copy of the current cluster state
@@ -94,25 +109,25 @@ const ClustersPanel: FC<{
           Click a cluster to show/hide related nodes from the network.
         </i>
       </p>
-      <div>
+      <div className="slider-container">
         <label>
           Min:
           <input
             type="number"
-            min="0"
-            max="1126"
+            min={clusterValues.min}
+            max={clusterValues.max}
             value={sliderValueLower}
             onChange={(e) => setSliderValueLower(Number(e.target.value))}
           />
         </label>
       </div>
-      <div>
+      <div className="slider-container">
         <label>
           Max:
           <input
             type="number"
-            min="1"
-            max="1127"
+            min={clusterValues.min}
+            max={clusterValues.max}
             value={sliderValueUpper}
             onChange={(e) => setSliderValueUpper(Number(e.target.value))}
           />
